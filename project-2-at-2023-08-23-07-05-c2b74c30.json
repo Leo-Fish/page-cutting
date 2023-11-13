@@ -1,0 +1,4022 @@
+[
+  {
+    "image": "\/data\/upload\/2\/41c83d2c-page_800.png",
+    "id": 52,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 56,
+    "created_at": "2023-08-22T17:58:58.412009Z",
+    "updated_at": "2023-08-22T17:58:58.412009Z",
+    "lead_time": 34.072
+  },
+  {
+    "image": "\/data\/upload\/2\/e7911856-page_801.png",
+    "id": 53,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 57,
+    "created_at": "2023-08-22T17:59:14.627424Z",
+    "updated_at": "2023-08-22T17:59:14.627424Z",
+    "lead_time": 6.314
+  },
+  {
+    "image": "\/data\/upload\/2\/15f9bc2e-page_802.png",
+    "id": 54,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 58,
+    "created_at": "2023-08-22T18:00:30.233461Z",
+    "updated_at": "2023-08-22T18:01:05.277669Z",
+    "lead_time": 37.42999999999999
+  },
+  {
+    "image": "\/data\/upload\/2\/66c330c0-page_803.png",
+    "id": 55,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 59,
+    "created_at": "2023-08-22T18:01:20.202002Z",
+    "updated_at": "2023-08-22T18:04:18.643647Z",
+    "lead_time": 191.872
+  },
+  {
+    "image": "\/data\/upload\/2\/8cc1e166-page_804.png",
+    "id": 56,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 60,
+    "created_at": "2023-08-22T18:04:21.675888Z",
+    "updated_at": "2023-08-22T18:04:21.675888Z",
+    "lead_time": 1.811
+  },
+  {
+    "image": "\/data\/upload\/2\/44840ea9-page_805.png",
+    "id": 57,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 61,
+    "created_at": "2023-08-22T18:04:24.517689Z",
+    "updated_at": "2023-08-22T18:04:24.517689Z",
+    "lead_time": 1.233
+  },
+  {
+    "image": "\/data\/upload\/2\/0c6ad0f7-page_806.png",
+    "id": 58,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 62,
+    "created_at": "2023-08-22T18:04:30.676908Z",
+    "updated_at": "2023-08-22T18:04:30.676908Z",
+    "lead_time": 4.587
+  },
+  {
+    "image": "\/data\/upload\/2\/2b726772-page_807.png",
+    "id": 59,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 63,
+    "created_at": "2023-08-22T18:04:35.081613Z",
+    "updated_at": "2023-08-22T18:04:35.081613Z",
+    "lead_time": 3.021
+  },
+  {
+    "image": "\/data\/upload\/2\/e321103a-page_808.png",
+    "id": 60,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 64,
+    "created_at": "2023-08-22T18:04:37.495767Z",
+    "updated_at": "2023-08-22T18:04:37.495767Z",
+    "lead_time": 1.326
+  },
+  {
+    "image": "\/data\/upload\/2\/2204d157-page_809.png",
+    "id": 61,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 65,
+    "created_at": "2023-08-22T18:04:52.707183Z",
+    "updated_at": "2023-08-22T18:05:00.544947Z",
+    "lead_time": 20.868
+  },
+  {
+    "image": "\/data\/upload\/2\/e86f8b12-page_810.png",
+    "id": 62,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 66,
+    "created_at": "2023-08-22T18:05:51.292113Z",
+    "updated_at": "2023-08-22T18:05:51.292113Z",
+    "lead_time": 49.425
+  },
+  {
+    "image": "\/data\/upload\/2\/34359952-page_811.png",
+    "id": 63,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 67,
+    "created_at": "2023-08-22T18:05:54.592218Z",
+    "updated_at": "2023-08-22T18:05:54.592218Z",
+    "lead_time": 1.493
+  },
+  {
+    "image": "\/data\/upload\/2\/78f50148-page_812.png",
+    "id": 64,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 68,
+    "created_at": "2023-08-22T18:05:56.824787Z",
+    "updated_at": "2023-08-22T18:05:56.824787Z",
+    "lead_time": 1.123
+  },
+  {
+    "image": "\/data\/upload\/2\/8c0fe615-page_813.png",
+    "id": 65,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 69,
+    "created_at": "2023-08-22T18:05:59.236483Z",
+    "updated_at": "2023-08-22T18:05:59.236483Z",
+    "lead_time": 1.29
+  },
+  {
+    "image": "\/data\/upload\/2\/c46adbca-page_814.png",
+    "id": 66,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 70,
+    "created_at": "2023-08-22T18:06:03.661705Z",
+    "updated_at": "2023-08-22T18:06:03.661705Z",
+    "lead_time": 2.411
+  },
+  {
+    "image": "\/data\/upload\/2\/9a850a5c-page_815.png",
+    "id": 67,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 71,
+    "created_at": "2023-08-22T18:06:07.801536Z",
+    "updated_at": "2023-08-22T18:06:07.801536Z",
+    "lead_time": 2.67
+  },
+  {
+    "image": "\/data\/upload\/2\/6d0b9820-page_816.png",
+    "id": 68,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 72,
+    "created_at": "2023-08-22T18:06:10.909168Z",
+    "updated_at": "2023-08-22T18:06:10.909168Z",
+    "lead_time": 1.644
+  },
+  {
+    "image": "\/data\/upload\/2\/02bf50b7-page_817.png",
+    "id": 69,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 73,
+    "created_at": "2023-08-22T18:06:14.949636Z",
+    "updated_at": "2023-08-22T18:06:14.949636Z",
+    "lead_time": 2.092
+  },
+  {
+    "image": "\/data\/upload\/2\/5041983a-page_818.png",
+    "id": 70,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 74,
+    "created_at": "2023-08-22T18:06:17.449965Z",
+    "updated_at": "2023-08-22T18:06:17.449965Z",
+    "lead_time": 1.242
+  },
+  {
+    "image": "\/data\/upload\/2\/c13ed510-page_819.png",
+    "id": 71,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 75,
+    "created_at": "2023-08-22T18:06:19.642440Z",
+    "updated_at": "2023-08-22T18:06:19.642440Z",
+    "lead_time": 1.175
+  },
+  {
+    "image": "\/data\/upload\/2\/482177f4-page_820.png",
+    "id": 72,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 76,
+    "created_at": "2023-08-22T18:06:21.985506Z",
+    "updated_at": "2023-08-22T18:06:21.985506Z",
+    "lead_time": 0.871
+  },
+  {
+    "image": "\/data\/upload\/2\/71da66a6-page_821.png",
+    "id": 73,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 77,
+    "created_at": "2023-08-22T18:06:25.554998Z",
+    "updated_at": "2023-08-22T18:06:25.554998Z",
+    "lead_time": 1.642
+  },
+  {
+    "image": "\/data\/upload\/2\/1fb5ae0a-page_822.png",
+    "id": 74,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 78,
+    "created_at": "2023-08-22T18:06:28.750404Z",
+    "updated_at": "2023-08-22T18:06:28.750404Z",
+    "lead_time": 1.487
+  },
+  {
+    "image": "\/data\/upload\/2\/fb7e9446-page_823.png",
+    "id": 75,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 79,
+    "created_at": "2023-08-22T18:06:32.192122Z",
+    "updated_at": "2023-08-22T18:06:32.192122Z",
+    "lead_time": 1.584
+  },
+  {
+    "image": "\/data\/upload\/2\/1f939b57-page_824.png",
+    "id": 76,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 80,
+    "created_at": "2023-08-22T18:06:34.810733Z",
+    "updated_at": "2023-08-22T18:06:34.810733Z",
+    "lead_time": 1.6
+  },
+  {
+    "image": "\/data\/upload\/2\/927781b0-page_825.png",
+    "id": 77,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 81,
+    "created_at": "2023-08-22T18:06:37.065459Z",
+    "updated_at": "2023-08-22T18:06:37.065459Z",
+    "lead_time": 1.18
+  },
+  {
+    "image": "\/data\/upload\/2\/b55d15c6-page_826.png",
+    "id": 78,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 82,
+    "created_at": "2023-08-22T18:06:39.500091Z",
+    "updated_at": "2023-08-22T18:06:39.500091Z",
+    "lead_time": 1.11
+  },
+  {
+    "image": "\/data\/upload\/2\/8d52b8f9-page_827.png",
+    "id": 79,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 83,
+    "created_at": "2023-08-22T18:06:41.652364Z",
+    "updated_at": "2023-08-22T18:06:41.652364Z",
+    "lead_time": 0.995
+  },
+  {
+    "image": "\/data\/upload\/2\/de52b154-page_828.png",
+    "id": 80,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 84,
+    "created_at": "2023-08-22T18:06:45.346408Z",
+    "updated_at": "2023-08-22T18:06:45.346408Z",
+    "lead_time": 1.323
+  },
+  {
+    "image": "\/data\/upload\/2\/24a9504c-page_829.png",
+    "id": 81,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 85,
+    "created_at": "2023-08-22T18:06:48.191978Z",
+    "updated_at": "2023-08-22T18:06:48.191978Z",
+    "lead_time": 1.063
+  },
+  {
+    "image": "\/data\/upload\/2\/1221daf9-page_830.png",
+    "id": 82,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 86,
+    "created_at": "2023-08-22T18:06:54.025301Z",
+    "updated_at": "2023-08-22T18:06:54.025301Z",
+    "lead_time": 1.266
+  },
+  {
+    "image": "\/data\/upload\/2\/ba4e8319-page_831.png",
+    "id": 83,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 87,
+    "created_at": "2023-08-22T18:07:00.374242Z",
+    "updated_at": "2023-08-22T18:07:00.374242Z",
+    "lead_time": 1.407
+  },
+  {
+    "image": "\/data\/upload\/2\/9b088339-page_832.png",
+    "id": 84,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 88,
+    "created_at": "2023-08-22T18:07:03.828023Z",
+    "updated_at": "2023-08-22T18:07:03.828023Z",
+    "lead_time": 1.621
+  },
+  {
+    "image": "\/data\/upload\/2\/76c7d017-page_833.png",
+    "id": 85,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 89,
+    "created_at": "2023-08-22T18:07:06.732940Z",
+    "updated_at": "2023-08-22T18:07:06.732940Z",
+    "lead_time": 1.236
+  },
+  {
+    "image": "\/data\/upload\/2\/9422e5cc-page_834.png",
+    "id": 86,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 90,
+    "created_at": "2023-08-22T18:07:09.285788Z",
+    "updated_at": "2023-08-22T18:07:09.285788Z",
+    "lead_time": 1.219
+  },
+  {
+    "image": "\/data\/upload\/2\/806be452-page_835.png",
+    "id": 87,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 91,
+    "created_at": "2023-08-22T18:07:12.096580Z",
+    "updated_at": "2023-08-22T18:07:12.096580Z",
+    "lead_time": 1.283
+  },
+  {
+    "image": "\/data\/upload\/2\/2c63cd18-page_836.png",
+    "id": 88,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 92,
+    "created_at": "2023-08-22T18:07:14.331916Z",
+    "updated_at": "2023-08-22T18:07:14.331916Z",
+    "lead_time": 1.128
+  },
+  {
+    "image": "\/data\/upload\/2\/3e3028ab-page_837.png",
+    "id": 89,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 93,
+    "created_at": "2023-08-22T18:07:16.508991Z",
+    "updated_at": "2023-08-22T18:07:16.508991Z",
+    "lead_time": 1.015
+  },
+  {
+    "image": "\/data\/upload\/2\/8a6d010d-page_838.png",
+    "id": 90,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 94,
+    "created_at": "2023-08-22T18:07:22.439028Z",
+    "updated_at": "2023-08-22T18:07:22.439028Z",
+    "lead_time": 3.471
+  },
+  {
+    "image": "\/data\/upload\/2\/06d7c4dd-page_839.png",
+    "id": 91,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 95,
+    "created_at": "2023-08-22T18:07:26.355143Z",
+    "updated_at": "2023-08-22T18:07:26.355143Z",
+    "lead_time": 2.745
+  },
+  {
+    "image": "\/data\/upload\/2\/874c478e-page_840.png",
+    "id": 92,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 96,
+    "created_at": "2023-08-22T18:07:29.170796Z",
+    "updated_at": "2023-08-22T18:07:29.170796Z",
+    "lead_time": 1.058
+  },
+  {
+    "image": "\/data\/upload\/2\/dbee8000-page_841.png",
+    "id": 93,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 97,
+    "created_at": "2023-08-22T18:07:31.895595Z",
+    "updated_at": "2023-08-22T18:07:31.895595Z",
+    "lead_time": 1.548
+  },
+  {
+    "image": "\/data\/upload\/2\/9525e103-page_842.png",
+    "id": 94,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 98,
+    "created_at": "2023-08-22T18:07:34.514813Z",
+    "updated_at": "2023-08-22T18:07:34.514813Z",
+    "lead_time": 0.821
+  },
+  {
+    "image": "\/data\/upload\/2\/ccd930bf-page_843.png",
+    "id": 95,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 99,
+    "created_at": "2023-08-22T18:07:36.317038Z",
+    "updated_at": "2023-08-22T18:07:36.317038Z",
+    "lead_time": 0.703
+  },
+  {
+    "image": "\/data\/upload\/2\/51606b88-page_844.png",
+    "id": 96,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 100,
+    "created_at": "2023-08-22T18:07:38.766997Z",
+    "updated_at": "2023-08-22T18:07:38.766997Z",
+    "lead_time": 1.3
+  },
+  {
+    "image": "\/data\/upload\/2\/e14b94d7-page_845.png",
+    "id": 97,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 101,
+    "created_at": "2023-08-22T18:07:41.777852Z",
+    "updated_at": "2023-08-22T18:07:41.777852Z",
+    "lead_time": 1.853
+  },
+  {
+    "image": "\/data\/upload\/2\/49d953db-page_846.png",
+    "id": 98,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 102,
+    "created_at": "2023-08-22T18:07:44.663420Z",
+    "updated_at": "2023-08-22T18:07:44.663420Z",
+    "lead_time": 1.575
+  },
+  {
+    "image": "\/data\/upload\/2\/63567a25-page_847.png",
+    "id": 99,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 103,
+    "created_at": "2023-08-22T18:07:47.328436Z",
+    "updated_at": "2023-08-22T18:07:47.328436Z",
+    "lead_time": 1.202
+  },
+  {
+    "image": "\/data\/upload\/2\/a7f73627-page_848.png",
+    "id": 100,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 104,
+    "created_at": "2023-08-22T18:07:49.848749Z",
+    "updated_at": "2023-08-22T18:07:49.848749Z",
+    "lead_time": 1.474
+  },
+  {
+    "image": "\/data\/upload\/2\/53cfe410-page_849.png",
+    "id": 101,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 105,
+    "created_at": "2023-08-22T18:07:52.079966Z",
+    "updated_at": "2023-08-22T18:07:52.079966Z",
+    "lead_time": 1.027
+  },
+  {
+    "image": "\/data\/upload\/2\/fa7d5f0c-page_850.png",
+    "id": 102,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 106,
+    "created_at": "2023-08-22T18:07:54.245069Z",
+    "updated_at": "2023-08-22T18:07:54.245069Z",
+    "lead_time": 0.867
+  },
+  {
+    "image": "\/data\/upload\/2\/4e9f7597-page_851.png",
+    "id": 103,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 107,
+    "created_at": "2023-08-22T18:07:56.706049Z",
+    "updated_at": "2023-08-22T18:07:56.706049Z",
+    "lead_time": 1.17
+  },
+  {
+    "image": "\/data\/upload\/2\/9358b6c8-page_852.png",
+    "id": 104,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 108,
+    "created_at": "2023-08-22T18:07:59.632413Z",
+    "updated_at": "2023-08-22T18:07:59.632413Z",
+    "lead_time": 0.769
+  },
+  {
+    "image": "\/data\/upload\/2\/a111b36b-page_853.png",
+    "id": 105,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 109,
+    "created_at": "2023-08-22T18:08:08.774341Z",
+    "updated_at": "2023-08-22T18:08:08.774341Z",
+    "lead_time": 8.046
+  },
+  {
+    "image": "\/data\/upload\/2\/65a6df7a-page_854.png",
+    "id": 106,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 110,
+    "created_at": "2023-08-22T18:08:11.776003Z",
+    "updated_at": "2023-08-22T18:08:11.776003Z",
+    "lead_time": 1.526
+  },
+  {
+    "image": "\/data\/upload\/2\/1963dd01-page_855.png",
+    "id": 107,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 111,
+    "created_at": "2023-08-22T18:08:15.046683Z",
+    "updated_at": "2023-08-22T18:08:15.046683Z",
+    "lead_time": 0.918
+  },
+  {
+    "image": "\/data\/upload\/2\/e177504e-page_856.png",
+    "id": 108,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 112,
+    "created_at": "2023-08-22T18:08:17.097621Z",
+    "updated_at": "2023-08-22T18:08:17.097621Z",
+    "lead_time": 0.994
+  },
+  {
+    "image": "\/data\/upload\/2\/7884dd46-page_857.png",
+    "id": 109,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 113,
+    "created_at": "2023-08-22T18:08:21.404592Z",
+    "updated_at": "2023-08-22T18:08:21.404592Z",
+    "lead_time": 3.181
+  },
+  {
+    "image": "\/data\/upload\/2\/a764150e-page_858.png",
+    "id": 110,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 114,
+    "created_at": "2023-08-22T18:08:25.373155Z",
+    "updated_at": "2023-08-22T18:08:25.373155Z",
+    "lead_time": 1.46
+  },
+  {
+    "image": "\/data\/upload\/2\/4d5ff335-page_859.png",
+    "id": 111,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 115,
+    "created_at": "2023-08-22T18:08:30.547857Z",
+    "updated_at": "2023-08-22T18:08:30.547857Z",
+    "lead_time": 2.958
+  },
+  {
+    "image": "\/data\/upload\/2\/54113106-page_860.png",
+    "id": 112,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 116,
+    "created_at": "2023-08-22T18:08:33.855863Z",
+    "updated_at": "2023-08-22T18:08:33.855863Z",
+    "lead_time": 1.38
+  },
+  {
+    "image": "\/data\/upload\/2\/db32991d-page_861.png",
+    "id": 113,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 117,
+    "created_at": "2023-08-22T18:08:37.009842Z",
+    "updated_at": "2023-08-22T18:08:37.009842Z",
+    "lead_time": 1.246
+  },
+  {
+    "image": "\/data\/upload\/2\/811dfb1d-page_862.png",
+    "id": 114,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 118,
+    "created_at": "2023-08-22T18:08:40.088484Z",
+    "updated_at": "2023-08-22T18:08:40.088484Z",
+    "lead_time": 1.567
+  },
+  {
+    "image": "\/data\/upload\/2\/27112991-page_863.png",
+    "id": 115,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 119,
+    "created_at": "2023-08-22T18:08:43.521352Z",
+    "updated_at": "2023-08-22T18:08:43.521352Z",
+    "lead_time": 1.616
+  },
+  {
+    "image": "\/data\/upload\/2\/8dec69ea-page_864.png",
+    "id": 116,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 120,
+    "created_at": "2023-08-22T18:08:47.101844Z",
+    "updated_at": "2023-08-22T18:08:47.101844Z",
+    "lead_time": 1.448
+  },
+  {
+    "image": "\/data\/upload\/2\/9de35440-page_865.png",
+    "id": 117,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 121,
+    "created_at": "2023-08-22T18:08:52.044328Z",
+    "updated_at": "2023-08-22T18:08:52.044328Z",
+    "lead_time": 2.847
+  },
+  {
+    "image": "\/data\/upload\/2\/5f860987-page_866.png",
+    "id": 118,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 122,
+    "created_at": "2023-08-22T18:08:54.966545Z",
+    "updated_at": "2023-08-22T18:08:54.966545Z",
+    "lead_time": 1.482
+  },
+  {
+    "image": "\/data\/upload\/2\/5847eb02-page_867.png",
+    "id": 119,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 123,
+    "created_at": "2023-08-22T18:08:57.876470Z",
+    "updated_at": "2023-08-22T18:08:57.876470Z",
+    "lead_time": 1.416
+  },
+  {
+    "image": "\/data\/upload\/2\/0d837803-page_868.png",
+    "id": 120,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 124,
+    "created_at": "2023-08-22T18:09:04.516724Z",
+    "updated_at": "2023-08-22T18:09:04.516724Z",
+    "lead_time": 5.449
+  },
+  {
+    "image": "\/data\/upload\/2\/3ed599b2-page_869.png",
+    "id": 121,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 125,
+    "created_at": "2023-08-22T18:09:07.452597Z",
+    "updated_at": "2023-08-22T18:09:07.452597Z",
+    "lead_time": 1.422
+  },
+  {
+    "image": "\/data\/upload\/2\/19eedcec-page_870.png",
+    "id": 122,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 126,
+    "created_at": "2023-08-22T18:09:52.399650Z",
+    "updated_at": "2023-08-22T18:09:52.399650Z",
+    "lead_time": 2.253
+  },
+  {
+    "image": "\/data\/upload\/2\/0fcaa8c2-page_871.png",
+    "id": 123,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 127,
+    "created_at": "2023-08-22T18:09:59.523019Z",
+    "updated_at": "2023-08-22T18:09:59.523019Z",
+    "lead_time": 5.729
+  },
+  {
+    "image": "\/data\/upload\/2\/2133309a-page_872.png",
+    "id": 124,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 128,
+    "created_at": "2023-08-22T18:10:06.573598Z",
+    "updated_at": "2023-08-22T18:10:06.573598Z",
+    "lead_time": 5.695
+  },
+  {
+    "image": "\/data\/upload\/2\/af3417d3-page_873.png",
+    "id": 125,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 129,
+    "created_at": "2023-08-22T18:10:09.467501Z",
+    "updated_at": "2023-08-22T18:10:09.467501Z",
+    "lead_time": 1.239
+  },
+  {
+    "image": "\/data\/upload\/2\/6e815cd3-page_874.png",
+    "id": 126,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 130,
+    "created_at": "2023-08-22T18:10:13.693714Z",
+    "updated_at": "2023-08-22T18:10:13.693714Z",
+    "lead_time": 2.67
+  },
+  {
+    "image": "\/data\/upload\/2\/b5f2a01c-page_875.png",
+    "id": 127,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 131,
+    "created_at": "2023-08-22T18:10:20.521331Z",
+    "updated_at": "2023-08-22T18:10:20.521331Z",
+    "lead_time": 5.085
+  },
+  {
+    "image": "\/data\/upload\/2\/a4699548-page_876.png",
+    "id": 128,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 132,
+    "created_at": "2023-08-22T18:10:23.632550Z",
+    "updated_at": "2023-08-22T18:10:23.632550Z",
+    "lead_time": 1.512
+  },
+  {
+    "image": "\/data\/upload\/2\/e1a7318d-page_877.png",
+    "id": 129,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 133,
+    "created_at": "2023-08-22T18:10:28.577457Z",
+    "updated_at": "2023-08-22T18:10:28.577457Z",
+    "lead_time": 2.059
+  },
+  {
+    "image": "\/data\/upload\/2\/b090eec9-page_878.png",
+    "id": 130,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 134,
+    "created_at": "2023-08-22T18:10:32.176340Z",
+    "updated_at": "2023-08-22T18:10:32.176340Z",
+    "lead_time": 2.448
+  },
+  {
+    "image": "\/data\/upload\/2\/a10c56a9-page_879.png",
+    "id": 131,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 135,
+    "created_at": "2023-08-22T18:10:36.470176Z",
+    "updated_at": "2023-08-22T18:10:36.470176Z",
+    "lead_time": 2.794
+  },
+  {
+    "image": "\/data\/upload\/2\/56ff8d46-page_880.png",
+    "id": 132,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 136,
+    "created_at": "2023-08-22T18:10:40.805823Z",
+    "updated_at": "2023-08-22T18:10:40.805823Z",
+    "lead_time": 2.511
+  },
+  {
+    "image": "\/data\/upload\/2\/232bf402-page_881.png",
+    "id": 133,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 137,
+    "created_at": "2023-08-22T18:10:43.390809Z",
+    "updated_at": "2023-08-22T18:10:43.390809Z",
+    "lead_time": 1.422
+  },
+  {
+    "image": "\/data\/upload\/2\/747bbb01-page_882.png",
+    "id": 134,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 138,
+    "created_at": "2023-08-22T18:10:46.867452Z",
+    "updated_at": "2023-08-22T18:10:46.867452Z",
+    "lead_time": 2.162
+  },
+  {
+    "image": "\/data\/upload\/2\/142add38-page_883.png",
+    "id": 135,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 139,
+    "created_at": "2023-08-22T18:10:50.360428Z",
+    "updated_at": "2023-08-22T18:10:50.360428Z",
+    "lead_time": 1.77
+  },
+  {
+    "image": "\/data\/upload\/2\/f34e7722-page_884.png",
+    "id": 136,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 140,
+    "created_at": "2023-08-22T18:10:54.200344Z",
+    "updated_at": "2023-08-22T18:10:54.200344Z",
+    "lead_time": 1.131
+  },
+  {
+    "image": "\/data\/upload\/2\/127459a4-page_885.png",
+    "id": 137,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 141,
+    "created_at": "2023-08-22T18:10:58.637182Z",
+    "updated_at": "2023-08-22T18:10:58.637182Z",
+    "lead_time": 1.125
+  },
+  {
+    "image": "\/data\/upload\/2\/015b7956-page_886.png",
+    "id": 138,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 142,
+    "created_at": "2023-08-22T18:11:02.679820Z",
+    "updated_at": "2023-08-22T18:11:02.679820Z",
+    "lead_time": 2.262
+  },
+  {
+    "image": "\/data\/upload\/2\/4139f357-page_887.png",
+    "id": 139,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 143,
+    "created_at": "2023-08-22T18:11:09.557320Z",
+    "updated_at": "2023-08-22T18:11:09.557320Z",
+    "lead_time": 5.167
+  },
+  {
+    "image": "\/data\/upload\/2\/b3333c64-page_888.png",
+    "id": 140,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 144,
+    "created_at": "2023-08-22T18:11:17.132961Z",
+    "updated_at": "2023-08-22T18:11:17.132961Z",
+    "lead_time": 1.569
+  },
+  {
+    "image": "\/data\/upload\/2\/7ea84080-page_889.png",
+    "id": 141,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 145,
+    "created_at": "2023-08-22T18:11:20.655528Z",
+    "updated_at": "2023-08-22T18:11:20.655528Z",
+    "lead_time": 1.579
+  },
+  {
+    "image": "\/data\/upload\/2\/1418da82-page_890.png",
+    "id": 142,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 146,
+    "created_at": "2023-08-22T18:11:27.497879Z",
+    "updated_at": "2023-08-22T18:11:27.497879Z",
+    "lead_time": 2.461
+  },
+  {
+    "image": "\/data\/upload\/2\/a2f3d57f-page_891.png",
+    "id": 143,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 147,
+    "created_at": "2023-08-22T18:12:03.188752Z",
+    "updated_at": "2023-08-22T18:12:03.188752Z",
+    "lead_time": 2.749
+  },
+  {
+    "image": "\/data\/upload\/2\/d7aaceb5-page_892.png",
+    "id": 144,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 148,
+    "created_at": "2023-08-22T18:12:11.087540Z",
+    "updated_at": "2023-08-22T18:12:11.087540Z",
+    "lead_time": 2.865
+  },
+  {
+    "image": "\/data\/upload\/2\/e4355ac1-page_893.png",
+    "id": 145,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 149,
+    "created_at": "2023-08-22T18:12:38.737018Z",
+    "updated_at": "2023-08-22T18:12:38.737018Z",
+    "lead_time": 3.528
+  },
+  {
+    "image": "\/data\/upload\/2\/2fe63c9f-page_894.png",
+    "id": 146,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 150,
+    "created_at": "2023-08-22T18:12:41.548503Z",
+    "updated_at": "2023-08-22T18:12:41.548503Z",
+    "lead_time": 1.654
+  },
+  {
+    "image": "\/data\/upload\/2\/0e2272b3-page_895.png",
+    "id": 147,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 151,
+    "created_at": "2023-08-22T18:12:49.320322Z",
+    "updated_at": "2023-08-22T18:12:49.320322Z",
+    "lead_time": 5.718
+  },
+  {
+    "image": "\/data\/upload\/2\/971625b8-page_896.png",
+    "id": 148,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 152,
+    "created_at": "2023-08-22T18:12:55.116302Z",
+    "updated_at": "2023-08-22T18:12:55.116302Z",
+    "lead_time": 3.447
+  },
+  {
+    "image": "\/data\/upload\/2\/36a37253-page_897.png",
+    "id": 149,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 153,
+    "created_at": "2023-08-22T18:13:00.360205Z",
+    "updated_at": "2023-08-22T18:13:00.360205Z",
+    "lead_time": 3.188
+  },
+  {
+    "image": "\/data\/upload\/2\/fcf98c9b-page_898.png",
+    "id": 150,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 154,
+    "created_at": "2023-08-22T18:13:05.427085Z",
+    "updated_at": "2023-08-22T18:13:05.427085Z",
+    "lead_time": 2.881
+  },
+  {
+    "image": "\/data\/upload\/2\/a5359675-page_899.png",
+    "id": 151,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 155,
+    "created_at": "2023-08-22T18:13:07.825270Z",
+    "updated_at": "2023-08-22T18:13:07.825270Z",
+    "lead_time": 1.304
+  },
+  {
+    "image": "\/data\/upload\/2\/ab7532e1-page_900.png",
+    "id": 152,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 156,
+    "created_at": "2023-08-22T18:13:09.999061Z",
+    "updated_at": "2023-08-22T18:13:09.999061Z",
+    "lead_time": 1.091
+  },
+  {
+    "image": "\/data\/upload\/2\/8854b34c-page_901.png",
+    "id": 153,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 157,
+    "created_at": "2023-08-22T18:13:43.275140Z",
+    "updated_at": "2023-08-22T18:13:43.275140Z",
+    "lead_time": 7.717
+  },
+  {
+    "image": "\/data\/upload\/2\/cca4ba22-page_902.png",
+    "id": 154,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 158,
+    "created_at": "2023-08-22T18:13:57.585366Z",
+    "updated_at": "2023-08-22T18:13:57.585366Z",
+    "lead_time": 13.091
+  },
+  {
+    "image": "\/data\/upload\/2\/e64a1685-page_903.png",
+    "id": 155,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 159,
+    "created_at": "2023-08-22T18:14:11.147548Z",
+    "updated_at": "2023-08-22T18:14:11.147548Z",
+    "lead_time": 10.953
+  },
+  {
+    "image": "\/data\/upload\/2\/03bd9a7f-page_904.png",
+    "id": 156,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 160,
+    "created_at": "2023-08-22T18:14:20.501871Z",
+    "updated_at": "2023-08-22T18:14:20.501871Z",
+    "lead_time": 1.449
+  },
+  {
+    "image": "\/data\/upload\/2\/68e4d42d-page_905.png",
+    "id": 157,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 161,
+    "created_at": "2023-08-22T18:14:24.460495Z",
+    "updated_at": "2023-08-22T18:14:24.460495Z",
+    "lead_time": 2.624
+  },
+  {
+    "image": "\/data\/upload\/2\/cdd870f7-page_906.png",
+    "id": 158,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 162,
+    "created_at": "2023-08-22T18:14:37.134797Z",
+    "updated_at": "2023-08-22T18:14:37.135823Z",
+    "lead_time": 10.193
+  },
+  {
+    "image": "\/data\/upload\/2\/5d10461e-page_907.png",
+    "id": 159,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 163,
+    "created_at": "2023-08-22T18:14:40.357385Z",
+    "updated_at": "2023-08-22T18:14:40.357385Z",
+    "lead_time": 1.984
+  },
+  {
+    "image": "\/data\/upload\/2\/3a2c8f25-page_908.png",
+    "id": 160,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 164,
+    "created_at": "2023-08-22T18:14:43.403687Z",
+    "updated_at": "2023-08-22T18:14:43.403687Z",
+    "lead_time": 1.857
+  },
+  {
+    "image": "\/data\/upload\/2\/478457dc-page_909.png",
+    "id": 161,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 165,
+    "created_at": "2023-08-22T18:14:49.027283Z",
+    "updated_at": "2023-08-22T18:14:49.028289Z",
+    "lead_time": 4.606
+  },
+  {
+    "image": "\/data\/upload\/2\/e52479e2-page_910.png",
+    "id": 162,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 166,
+    "created_at": "2023-08-22T18:14:53.301158Z",
+    "updated_at": "2023-08-22T18:14:53.301158Z",
+    "lead_time": 1.543
+  },
+  {
+    "image": "\/data\/upload\/2\/62f4a24e-page_911.png",
+    "id": 163,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 167,
+    "created_at": "2023-08-22T18:14:59.278908Z",
+    "updated_at": "2023-08-22T18:14:59.278908Z",
+    "lead_time": 4.318
+  },
+  {
+    "image": "\/data\/upload\/2\/09baedcf-page_912.png",
+    "id": 164,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 168,
+    "created_at": "2023-08-22T18:15:09.571597Z",
+    "updated_at": "2023-08-22T18:15:09.571597Z",
+    "lead_time": 8.61
+  },
+  {
+    "image": "\/data\/upload\/2\/a124aac9-page_913.png",
+    "id": 165,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 169,
+    "created_at": "2023-08-22T18:15:15.026676Z",
+    "updated_at": "2023-08-22T18:15:15.026676Z",
+    "lead_time": 4.311
+  },
+  {
+    "image": "\/data\/upload\/2\/d5fa142b-page_914.png",
+    "id": 166,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 170,
+    "created_at": "2023-08-22T18:15:19.126684Z",
+    "updated_at": "2023-08-22T18:15:19.126684Z",
+    "lead_time": 2.407
+  },
+  {
+    "image": "\/data\/upload\/2\/d19d7b1f-page_915.png",
+    "id": 167,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 171,
+    "created_at": "2023-08-22T18:15:27.871647Z",
+    "updated_at": "2023-08-22T18:15:27.871647Z",
+    "lead_time": 6.202
+  },
+  {
+    "image": "\/data\/upload\/2\/80f38299-page_916.png",
+    "id": 168,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 172,
+    "created_at": "2023-08-22T18:15:31.955489Z",
+    "updated_at": "2023-08-22T18:15:31.955489Z",
+    "lead_time": 2.528
+  },
+  {
+    "image": "\/data\/upload\/2\/28ef919c-page_917.png",
+    "id": 169,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 173,
+    "created_at": "2023-08-22T18:15:37.309856Z",
+    "updated_at": "2023-08-22T18:15:37.309856Z",
+    "lead_time": 3.48
+  },
+  {
+    "image": "\/data\/upload\/2\/846e650d-page_918.png",
+    "id": 170,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 174,
+    "created_at": "2023-08-22T18:15:43.115622Z",
+    "updated_at": "2023-08-22T18:15:43.115622Z",
+    "lead_time": 3.826
+  },
+  {
+    "image": "\/data\/upload\/2\/dc047a49-page_919.png",
+    "id": 171,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 175,
+    "created_at": "2023-08-22T18:15:45.957089Z",
+    "updated_at": "2023-08-22T18:15:45.958093Z",
+    "lead_time": 1.48
+  },
+  {
+    "image": "\/data\/upload\/2\/92b27287-page_920.png",
+    "id": 172,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 176,
+    "created_at": "2023-08-22T18:15:50.016400Z",
+    "updated_at": "2023-08-22T18:15:50.016400Z",
+    "lead_time": 1.491
+  },
+  {
+    "image": "\/data\/upload\/2\/028a1d72-page_921.png",
+    "id": 173,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 177,
+    "created_at": "2023-08-22T18:15:52.410983Z",
+    "updated_at": "2023-08-22T18:15:52.410983Z",
+    "lead_time": 1.299
+  },
+  {
+    "image": "\/data\/upload\/2\/b7beac3e-page_922.png",
+    "id": 174,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 178,
+    "created_at": "2023-08-22T18:15:56.589328Z",
+    "updated_at": "2023-08-22T18:15:56.589328Z",
+    "lead_time": 2.843
+  },
+  {
+    "image": "\/data\/upload\/2\/47baee36-page_923.png",
+    "id": 175,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 179,
+    "created_at": "2023-08-22T18:15:59.733580Z",
+    "updated_at": "2023-08-22T18:15:59.734535Z",
+    "lead_time": 2.048
+  },
+  {
+    "image": "\/data\/upload\/2\/79b54cd1-page_924.png",
+    "id": 176,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 180,
+    "created_at": "2023-08-22T18:16:03.466536Z",
+    "updated_at": "2023-08-22T18:16:03.466536Z",
+    "lead_time": 1.421
+  },
+  {
+    "image": "\/data\/upload\/2\/8f680023-page_925.png",
+    "id": 177,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 181,
+    "created_at": "2023-08-22T18:16:07.167860Z",
+    "updated_at": "2023-08-22T18:16:11.224253Z",
+    "lead_time": 6.282
+  },
+  {
+    "image": "\/data\/upload\/2\/58132812-page_926.png",
+    "id": 178,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 182,
+    "created_at": "2023-08-22T18:16:14.177444Z",
+    "updated_at": "2023-08-22T18:16:14.177444Z",
+    "lead_time": 1.693
+  },
+  {
+    "image": "\/data\/upload\/2\/82320111-page_927.png",
+    "id": 179,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 183,
+    "created_at": "2023-08-22T18:16:24.205451Z",
+    "updated_at": "2023-08-22T18:16:24.205451Z",
+    "lead_time": 7.333
+  },
+  {
+    "image": "\/data\/upload\/2\/3659ebf8-page_928.png",
+    "id": 180,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 184,
+    "created_at": "2023-08-22T18:16:29.959925Z",
+    "updated_at": "2023-08-22T18:16:29.959925Z",
+    "lead_time": 4.655
+  },
+  {
+    "image": "\/data\/upload\/2\/330fbd26-page_929.png",
+    "id": 181,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 185,
+    "created_at": "2023-08-22T18:16:33.163360Z",
+    "updated_at": "2023-08-22T18:16:33.163360Z",
+    "lead_time": 2.067
+  },
+  {
+    "image": "\/data\/upload\/2\/dcbdb5a0-page_930.png",
+    "id": 182,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 186,
+    "created_at": "2023-08-22T18:16:37.106911Z",
+    "updated_at": "2023-08-22T18:16:37.106911Z",
+    "lead_time": 2.133
+  },
+  {
+    "image": "\/data\/upload\/2\/0f821538-page_931.png",
+    "id": 183,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 187,
+    "created_at": "2023-08-22T18:16:40.366231Z",
+    "updated_at": "2023-08-22T18:16:40.366231Z",
+    "lead_time": 2.07
+  },
+  {
+    "image": "\/data\/upload\/2\/ab4cc9fd-page_932.png",
+    "id": 184,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 188,
+    "created_at": "2023-08-22T18:16:43.452425Z",
+    "updated_at": "2023-08-22T18:16:43.452425Z",
+    "lead_time": 0.925
+  },
+  {
+    "image": "\/data\/upload\/2\/0056514d-page_933.png",
+    "id": 185,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 189,
+    "created_at": "2023-08-22T18:17:20.436360Z",
+    "updated_at": "2023-08-22T18:17:20.436360Z",
+    "lead_time": 34.08
+  },
+  {
+    "image": "\/data\/upload\/2\/6c077eff-page_934.png",
+    "id": 186,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 190,
+    "created_at": "2023-08-22T18:17:24.237591Z",
+    "updated_at": "2023-08-22T18:17:24.237591Z",
+    "lead_time": 1.903
+  },
+  {
+    "image": "\/data\/upload\/2\/8a45a171-page_935.png",
+    "id": 187,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 191,
+    "created_at": "2023-08-22T18:17:26.372478Z",
+    "updated_at": "2023-08-22T18:17:26.372478Z",
+    "lead_time": 0.913
+  },
+  {
+    "image": "\/data\/upload\/2\/17894850-page_936.png",
+    "id": 188,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 192,
+    "created_at": "2023-08-22T18:17:28.410137Z",
+    "updated_at": "2023-08-22T18:17:28.410137Z",
+    "lead_time": 0.979
+  },
+  {
+    "image": "\/data\/upload\/2\/72427b9c-page_937.png",
+    "id": 189,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 193,
+    "created_at": "2023-08-22T18:17:30.444981Z",
+    "updated_at": "2023-08-22T18:17:30.444981Z",
+    "lead_time": 0.986
+  },
+  {
+    "image": "\/data\/upload\/2\/6ba0f8fa-page_938.png",
+    "id": 190,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 194,
+    "created_at": "2023-08-22T18:17:37.970297Z",
+    "updated_at": "2023-08-22T18:17:37.970297Z",
+    "lead_time": 1.574
+  },
+  {
+    "image": "\/data\/upload\/2\/7284ebd7-page_939.png",
+    "id": 191,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 195,
+    "created_at": "2023-08-22T18:17:50.132713Z",
+    "updated_at": "2023-08-22T18:17:50.132713Z",
+    "lead_time": 1.863
+  },
+  {
+    "image": "\/data\/upload\/2\/d710b2fc-page_940.png",
+    "id": 192,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 196,
+    "created_at": "2023-08-22T18:17:52.956083Z",
+    "updated_at": "2023-08-22T18:17:52.956083Z",
+    "lead_time": 1.637
+  },
+  {
+    "image": "\/data\/upload\/2\/304bdef9-page_941.png",
+    "id": 193,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 197,
+    "created_at": "2023-08-22T18:17:55.653451Z",
+    "updated_at": "2023-08-22T18:17:55.653451Z",
+    "lead_time": 1.495
+  },
+  {
+    "image": "\/data\/upload\/2\/dd83fd16-page_942.png",
+    "id": 194,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 198,
+    "created_at": "2023-08-22T18:17:58.213713Z",
+    "updated_at": "2023-08-22T18:17:58.213713Z",
+    "lead_time": 1.403
+  },
+  {
+    "image": "\/data\/upload\/2\/90afc473-page_943.png",
+    "id": 195,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 199,
+    "created_at": "2023-08-22T18:18:01.060687Z",
+    "updated_at": "2023-08-22T18:18:01.060687Z",
+    "lead_time": 1.423
+  },
+  {
+    "image": "\/data\/upload\/2\/5533c774-page_944.png",
+    "id": 196,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 200,
+    "created_at": "2023-08-22T18:18:04.911271Z",
+    "updated_at": "2023-08-22T18:18:04.911271Z",
+    "lead_time": 1.626
+  },
+  {
+    "image": "\/data\/upload\/2\/8b900bb6-page_945.png",
+    "id": 197,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 201,
+    "created_at": "2023-08-22T18:18:07.434424Z",
+    "updated_at": "2023-08-22T18:18:07.434424Z",
+    "lead_time": 1.377
+  },
+  {
+    "image": "\/data\/upload\/2\/ec2a77df-page_946.png",
+    "id": 198,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 202,
+    "created_at": "2023-08-22T18:18:09.949898Z",
+    "updated_at": "2023-08-22T18:18:09.949898Z",
+    "lead_time": 1.346
+  },
+  {
+    "image": "\/data\/upload\/2\/571ac0c6-page_947.png",
+    "id": 199,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 203,
+    "created_at": "2023-08-22T18:18:12.626082Z",
+    "updated_at": "2023-08-22T18:18:12.626082Z",
+    "lead_time": 1.59
+  },
+  {
+    "image": "\/data\/upload\/2\/25d0768d-page_948.png",
+    "id": 200,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 204,
+    "created_at": "2023-08-22T18:18:15.616747Z",
+    "updated_at": "2023-08-22T18:18:15.616747Z",
+    "lead_time": 1.85
+  },
+  {
+    "image": "\/data\/upload\/2\/0a57adc0-page_949.png",
+    "id": 201,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 205,
+    "created_at": "2023-08-22T18:18:20.342805Z",
+    "updated_at": "2023-08-22T18:18:20.342805Z",
+    "lead_time": 2.402
+  },
+  {
+    "image": "\/data\/upload\/2\/0a01eb7c-page_950.png",
+    "id": 202,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 206,
+    "created_at": "2023-08-22T18:18:23.778162Z",
+    "updated_at": "2023-08-22T18:18:23.778162Z",
+    "lead_time": 1.786
+  },
+  {
+    "image": "\/data\/upload\/2\/1288c93c-page_951.png",
+    "id": 203,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 207,
+    "created_at": "2023-08-22T18:18:26.390423Z",
+    "updated_at": "2023-08-22T18:18:26.390423Z",
+    "lead_time": 1.426
+  },
+  {
+    "image": "\/data\/upload\/2\/9114ecf0-page_952.png",
+    "id": 204,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 208,
+    "created_at": "2023-08-22T18:18:28.657969Z",
+    "updated_at": "2023-08-22T18:18:28.657969Z",
+    "lead_time": 1.072
+  },
+  {
+    "image": "\/data\/upload\/2\/e30ae4ba-page_953.png",
+    "id": 205,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 209,
+    "created_at": "2023-08-22T18:18:30.658822Z",
+    "updated_at": "2023-08-22T18:18:30.658822Z",
+    "lead_time": 1.033
+  },
+  {
+    "image": "\/data\/upload\/2\/55fd11ed-page_954.png",
+    "id": 206,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 210,
+    "created_at": "2023-08-22T18:18:33.371547Z",
+    "updated_at": "2023-08-22T18:18:33.371547Z",
+    "lead_time": 1.612
+  },
+  {
+    "image": "\/data\/upload\/2\/08021287-page_955.png",
+    "id": 207,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 211,
+    "created_at": "2023-08-22T18:18:36.526597Z",
+    "updated_at": "2023-08-22T18:18:36.526597Z",
+    "lead_time": 1.179
+  },
+  {
+    "image": "\/data\/upload\/2\/6fba532c-page_956.png",
+    "id": 208,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 212,
+    "created_at": "2023-08-22T18:18:39.680521Z",
+    "updated_at": "2023-08-22T18:18:39.680521Z",
+    "lead_time": 1.28
+  },
+  {
+    "image": "\/data\/upload\/2\/0214b589-page_957.png",
+    "id": 209,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 213,
+    "created_at": "2023-08-22T18:18:43.606347Z",
+    "updated_at": "2023-08-22T18:18:43.606347Z",
+    "lead_time": 1.581
+  },
+  {
+    "image": "\/data\/upload\/2\/0f981b83-page_958.png",
+    "id": 210,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 214,
+    "created_at": "2023-08-22T18:18:46.827772Z",
+    "updated_at": "2023-08-22T18:18:46.827772Z",
+    "lead_time": 1.623
+  },
+  {
+    "image": "\/data\/upload\/2\/757a8b9d-page_959.png",
+    "id": 211,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 215,
+    "created_at": "2023-08-22T18:18:51.303944Z",
+    "updated_at": "2023-08-22T18:18:51.303944Z",
+    "lead_time": 1.977
+  },
+  {
+    "image": "\/data\/upload\/2\/37ab1850-page_960.png",
+    "id": 212,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 216,
+    "created_at": "2023-08-22T18:18:54.703321Z",
+    "updated_at": "2023-08-22T18:18:54.703321Z",
+    "lead_time": 2.306
+  },
+  {
+    "image": "\/data\/upload\/2\/261c915d-page_961.png",
+    "id": 213,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 217,
+    "created_at": "2023-08-22T18:18:57.929571Z",
+    "updated_at": "2023-08-22T18:18:57.929571Z",
+    "lead_time": 1.692
+  },
+  {
+    "image": "\/data\/upload\/2\/341ae241-page_962.png",
+    "id": 214,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 218,
+    "created_at": "2023-08-22T18:19:02.549684Z",
+    "updated_at": "2023-08-22T18:19:02.549684Z",
+    "lead_time": 1.279
+  },
+  {
+    "image": "\/data\/upload\/2\/09efa02b-page_963.png",
+    "id": 215,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 219,
+    "created_at": "2023-08-22T18:19:05.105839Z",
+    "updated_at": "2023-08-22T18:19:05.105839Z",
+    "lead_time": 1.198
+  },
+  {
+    "image": "\/data\/upload\/2\/56390afb-page_964.png",
+    "id": 216,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 220,
+    "created_at": "2023-08-22T18:19:13.581257Z",
+    "updated_at": "2023-08-22T18:19:13.581257Z",
+    "lead_time": 2.32
+  },
+  {
+    "image": "\/data\/upload\/2\/2a09b6f2-page_965.png",
+    "id": 217,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 221,
+    "created_at": "2023-08-22T18:19:16.803947Z",
+    "updated_at": "2023-08-22T18:19:16.803947Z",
+    "lead_time": 1.434
+  },
+  {
+    "image": "\/data\/upload\/2\/02ff7980-page_966.png",
+    "id": 218,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 222,
+    "created_at": "2023-08-22T18:19:20.617878Z",
+    "updated_at": "2023-08-22T18:19:20.617878Z",
+    "lead_time": 1.385
+  },
+  {
+    "image": "\/data\/upload\/2\/4543bec5-page_967.png",
+    "id": 219,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 223,
+    "created_at": "2023-08-22T18:19:24.109249Z",
+    "updated_at": "2023-08-22T18:19:24.109249Z",
+    "lead_time": 1.624
+  },
+  {
+    "image": "\/data\/upload\/2\/39ab1cf4-page_968.png",
+    "id": 220,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 224,
+    "created_at": "2023-08-22T18:19:27.151800Z",
+    "updated_at": "2023-08-22T18:19:27.151800Z",
+    "lead_time": 1.33
+  },
+  {
+    "image": "\/data\/upload\/2\/6ba99275-page_969.png",
+    "id": 221,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 225,
+    "created_at": "2023-08-22T18:19:29.684200Z",
+    "updated_at": "2023-08-22T18:19:29.684200Z",
+    "lead_time": 1.448
+  },
+  {
+    "image": "\/data\/upload\/2\/78ca5f22-page_970.png",
+    "id": 222,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 226,
+    "created_at": "2023-08-22T18:19:31.903094Z",
+    "updated_at": "2023-08-22T18:19:31.903094Z",
+    "lead_time": 1.015
+  },
+  {
+    "image": "\/data\/upload\/2\/08a8cc6e-page_971.png",
+    "id": 223,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 227,
+    "created_at": "2023-08-22T18:19:34.262883Z",
+    "updated_at": "2023-08-22T18:19:34.262883Z",
+    "lead_time": 0.881
+  },
+  {
+    "image": "\/data\/upload\/2\/a1b0d5cf-page_972.png",
+    "id": 224,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 228,
+    "created_at": "2023-08-22T18:19:36.628639Z",
+    "updated_at": "2023-08-22T18:19:36.628639Z",
+    "lead_time": 0.814
+  },
+  {
+    "image": "\/data\/upload\/2\/935d608f-page_973.png",
+    "id": 225,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 229,
+    "created_at": "2023-08-22T18:19:38.774339Z",
+    "updated_at": "2023-08-22T18:19:38.774339Z",
+    "lead_time": 0.782
+  },
+  {
+    "image": "\/data\/upload\/2\/39cd7c87-page_974.png",
+    "id": 226,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 230,
+    "created_at": "2023-08-22T18:19:41.526375Z",
+    "updated_at": "2023-08-22T18:19:41.526375Z",
+    "lead_time": 1.488
+  },
+  {
+    "image": "\/data\/upload\/2\/b7b34afa-page_975.png",
+    "id": 227,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 231,
+    "created_at": "2023-08-22T18:19:43.487375Z",
+    "updated_at": "2023-08-22T18:19:43.487375Z",
+    "lead_time": 1.114
+  },
+  {
+    "image": "\/data\/upload\/2\/75820e56-page_976.png",
+    "id": 228,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 232,
+    "created_at": "2023-08-22T18:19:45.662043Z",
+    "updated_at": "2023-08-22T18:19:45.662043Z",
+    "lead_time": 1.125
+  },
+  {
+    "image": "\/data\/upload\/2\/8d52afc7-page_977.png",
+    "id": 229,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 233,
+    "created_at": "2023-08-22T18:19:48.105993Z",
+    "updated_at": "2023-08-22T18:19:48.105993Z",
+    "lead_time": 1.0
+  },
+  {
+    "image": "\/data\/upload\/2\/1dfde957-page_978.png",
+    "id": 230,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 234,
+    "created_at": "2023-08-22T18:19:50.799705Z",
+    "updated_at": "2023-08-22T18:19:50.799705Z",
+    "lead_time": 1.593
+  },
+  {
+    "image": "\/data\/upload\/2\/05b38b1b-page_979.png",
+    "id": 231,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 235,
+    "created_at": "2023-08-22T18:19:56.820887Z",
+    "updated_at": "2023-08-22T18:19:56.820887Z",
+    "lead_time": 3.999
+  },
+  {
+    "image": "\/data\/upload\/2\/6b00854a-page_980.png",
+    "id": 232,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 236,
+    "created_at": "2023-08-22T18:20:00.162486Z",
+    "updated_at": "2023-08-22T18:20:00.162486Z",
+    "lead_time": 1.792
+  },
+  {
+    "image": "\/data\/upload\/2\/2068b402-page_981.png",
+    "id": 233,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 237,
+    "created_at": "2023-08-22T18:20:02.799318Z",
+    "updated_at": "2023-08-22T18:20:02.799318Z",
+    "lead_time": 1.369
+  },
+  {
+    "image": "\/data\/upload\/2\/fdf9f48d-page_982.png",
+    "id": 234,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 238,
+    "created_at": "2023-08-22T18:20:06.076834Z",
+    "updated_at": "2023-08-22T18:20:06.076834Z",
+    "lead_time": 1.598
+  },
+  {
+    "image": "\/data\/upload\/2\/3e85374b-page_983.png",
+    "id": 235,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 239,
+    "created_at": "2023-08-22T18:20:11.742843Z",
+    "updated_at": "2023-08-22T18:20:11.742843Z",
+    "lead_time": 2.452
+  },
+  {
+    "image": "\/data\/upload\/2\/bdcb2c22-page_984.png",
+    "id": 236,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 240,
+    "created_at": "2023-08-22T18:20:16.102777Z",
+    "updated_at": "2023-08-22T18:20:16.102777Z",
+    "lead_time": 1.654
+  },
+  {
+    "image": "\/data\/upload\/2\/51febdef-page_985.png",
+    "id": 237,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 241,
+    "created_at": "2023-08-22T18:20:18.867220Z",
+    "updated_at": "2023-08-22T18:20:18.867220Z",
+    "lead_time": 1.648
+  },
+  {
+    "image": "\/data\/upload\/2\/40fc344a-page_986.png",
+    "id": 238,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 242,
+    "created_at": "2023-08-22T18:20:22.044698Z",
+    "updated_at": "2023-08-22T18:20:22.044698Z",
+    "lead_time": 1.109
+  },
+  {
+    "image": "\/data\/upload\/2\/2938c6fc-page_987.png",
+    "id": 239,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 243,
+    "created_at": "2023-08-22T18:20:25.271226Z",
+    "updated_at": "2023-08-22T18:20:25.271226Z",
+    "lead_time": 1.396
+  },
+  {
+    "image": "\/data\/upload\/2\/63dfb97b-page_988.png",
+    "id": 240,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 244,
+    "created_at": "2023-08-22T18:20:28.906505Z",
+    "updated_at": "2023-08-22T18:20:28.906505Z",
+    "lead_time": 2.107
+  },
+  {
+    "image": "\/data\/upload\/2\/479bdbec-page_989.png",
+    "id": 241,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 245,
+    "created_at": "2023-08-22T18:20:32.071870Z",
+    "updated_at": "2023-08-22T18:20:32.071870Z",
+    "lead_time": 1.698
+  },
+  {
+    "image": "\/data\/upload\/2\/7ffeafd3-page_990.png",
+    "id": 242,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 246,
+    "created_at": "2023-08-22T18:20:34.560030Z",
+    "updated_at": "2023-08-22T18:20:34.560030Z",
+    "lead_time": 1.474
+  },
+  {
+    "image": "\/data\/upload\/2\/6b6af258-page_991.png",
+    "id": 243,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 247,
+    "created_at": "2023-08-22T18:20:37.754195Z",
+    "updated_at": "2023-08-22T18:20:37.754195Z",
+    "lead_time": 2.187
+  },
+  {
+    "image": "\/data\/upload\/2\/b62b4d5e-page_992.png",
+    "id": 244,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 248,
+    "created_at": "2023-08-22T18:20:40.847838Z",
+    "updated_at": "2023-08-22T18:20:40.847838Z",
+    "lead_time": 1.352
+  },
+  {
+    "image": "\/data\/upload\/2\/dab63db4-page_993.png",
+    "id": 245,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 249,
+    "created_at": "2023-08-22T18:20:44.518588Z",
+    "updated_at": "2023-08-22T18:21:50.187598Z",
+    "lead_time": 66.579
+  },
+  {
+    "image": "\/data\/upload\/2\/033189c6-page_994.png",
+    "id": 246,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 250,
+    "created_at": "2023-08-22T18:21:52.635318Z",
+    "updated_at": "2023-08-22T18:21:52.635318Z",
+    "lead_time": 1.332
+  },
+  {
+    "image": "\/data\/upload\/2\/76318811-page_995.png",
+    "id": 247,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 251,
+    "created_at": "2023-08-22T18:21:55.793008Z",
+    "updated_at": "2023-08-22T18:21:55.793008Z",
+    "lead_time": 1.21
+  },
+  {
+    "image": "\/data\/upload\/2\/1eb6204f-page_996.png",
+    "id": 248,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 252,
+    "created_at": "2023-08-22T18:21:58.443213Z",
+    "updated_at": "2023-08-22T18:21:58.443213Z",
+    "lead_time": 1.31
+  },
+  {
+    "image": "\/data\/upload\/2\/f72eef6d-page_997.png",
+    "id": 249,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 253,
+    "created_at": "2023-08-22T18:22:24.662939Z",
+    "updated_at": "2023-08-22T18:22:24.662939Z",
+    "lead_time": 1.644
+  },
+  {
+    "image": "\/data\/upload\/2\/056a338a-page_998.png",
+    "id": 250,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 254,
+    "created_at": "2023-08-22T18:22:28.224358Z",
+    "updated_at": "2023-08-22T18:22:28.224358Z",
+    "lead_time": 1.671
+  },
+  {
+    "image": "\/data\/upload\/2\/ee197bf6-page_999.png",
+    "id": 251,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 255,
+    "created_at": "2023-08-22T18:22:34.323783Z",
+    "updated_at": "2023-08-22T18:22:34.323783Z",
+    "lead_time": 1.466
+  },
+  {
+    "image": "\/data\/upload\/2\/98eb299c-page_1000.png",
+    "id": 252,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 256,
+    "created_at": "2023-08-22T18:22:38.318749Z",
+    "updated_at": "2023-08-22T18:22:38.318749Z",
+    "lead_time": 2.32
+  },
+  {
+    "image": "\/data\/upload\/2\/df732563-page_1300.png",
+    "id": 253,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 257,
+    "created_at": "2023-08-22T18:22:42.533583Z",
+    "updated_at": "2023-08-22T18:23:08.757191Z",
+    "lead_time": 5.028
+  },
+  {
+    "image": "\/data\/upload\/2\/5973684a-page_1301.png",
+    "id": 254,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 258,
+    "created_at": "2023-08-22T18:22:45.639161Z",
+    "updated_at": "2023-08-22T18:23:11.679543Z",
+    "lead_time": 3.551
+  },
+  {
+    "image": "\/data\/upload\/2\/28b9ea9e-page_1302.png",
+    "id": 255,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 259,
+    "created_at": "2023-08-22T18:24:01.881768Z",
+    "updated_at": "2023-08-22T18:24:01.881768Z",
+    "lead_time": 3.257
+  },
+  {
+    "image": "\/data\/upload\/2\/f73ec7eb-page_1303.png",
+    "id": 256,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 260,
+    "created_at": "2023-08-22T18:24:06.127896Z",
+    "updated_at": "2023-08-22T18:24:06.127896Z",
+    "lead_time": 2.773
+  },
+  {
+    "image": "\/data\/upload\/2\/7fd4582b-page_1304.png",
+    "id": 257,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 261,
+    "created_at": "2023-08-22T18:24:10.144997Z",
+    "updated_at": "2023-08-22T18:24:10.144997Z",
+    "lead_time": 2.897
+  },
+  {
+    "image": "\/data\/upload\/2\/7cb0ba80-page_1305.png",
+    "id": 258,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 262,
+    "created_at": "2023-08-22T18:24:13.348309Z",
+    "updated_at": "2023-08-22T18:24:13.348309Z",
+    "lead_time": 1.414
+  },
+  {
+    "image": "\/data\/upload\/2\/90699545-page_1306.png",
+    "id": 259,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 263,
+    "created_at": "2023-08-22T18:24:15.742002Z",
+    "updated_at": "2023-08-22T18:24:15.742002Z",
+    "lead_time": 1.214
+  },
+  {
+    "image": "\/data\/upload\/2\/58056d28-page_1307.png",
+    "id": 260,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 264,
+    "created_at": "2023-08-22T18:24:17.783089Z",
+    "updated_at": "2023-08-22T18:24:17.783089Z",
+    "lead_time": 0.895
+  },
+  {
+    "image": "\/data\/upload\/2\/e94062c8-page_1308.png",
+    "id": 261,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 265,
+    "created_at": "2023-08-22T18:24:19.605124Z",
+    "updated_at": "2023-08-22T18:24:19.605124Z",
+    "lead_time": 0.796
+  },
+  {
+    "image": "\/data\/upload\/2\/19858184-page_1309.png",
+    "id": 262,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 266,
+    "created_at": "2023-08-22T18:24:21.913552Z",
+    "updated_at": "2023-08-22T18:24:21.913552Z",
+    "lead_time": 1.248
+  },
+  {
+    "image": "\/data\/upload\/2\/300e320a-page_1310.png",
+    "id": 263,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 267,
+    "created_at": "2023-08-22T18:24:24.475149Z",
+    "updated_at": "2023-08-22T18:24:24.475149Z",
+    "lead_time": 1.168
+  },
+  {
+    "image": "\/data\/upload\/2\/587485e9-page_1311.png",
+    "id": 264,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 268,
+    "created_at": "2023-08-22T18:24:27.913159Z",
+    "updated_at": "2023-08-22T18:24:27.913159Z",
+    "lead_time": 1.344
+  },
+  {
+    "image": "\/data\/upload\/2\/6d50a826-page_1312.png",
+    "id": 265,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 269,
+    "created_at": "2023-08-22T18:24:31.222449Z",
+    "updated_at": "2023-08-22T18:24:31.222449Z",
+    "lead_time": 1.491
+  },
+  {
+    "image": "\/data\/upload\/2\/9e197717-page_1313.png",
+    "id": 266,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 270,
+    "created_at": "2023-08-22T18:24:34.291620Z",
+    "updated_at": "2023-08-22T18:24:34.291620Z",
+    "lead_time": 1.061
+  },
+  {
+    "image": "\/data\/upload\/2\/1b41dfde-page_1314.png",
+    "id": 267,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 271,
+    "created_at": "2023-08-22T18:24:37.092545Z",
+    "updated_at": "2023-08-22T18:24:37.092545Z",
+    "lead_time": 1.656
+  },
+  {
+    "image": "\/data\/upload\/2\/f95389d0-page_1315.png",
+    "id": 268,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 272,
+    "created_at": "2023-08-22T18:24:39.135610Z",
+    "updated_at": "2023-08-22T18:24:39.135610Z",
+    "lead_time": 0.933
+  },
+  {
+    "image": "\/data\/upload\/2\/908c769f-page_1316.png",
+    "id": 269,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 273,
+    "created_at": "2023-08-22T18:24:42.328037Z",
+    "updated_at": "2023-08-22T18:24:42.328037Z",
+    "lead_time": 1.02
+  },
+  {
+    "image": "\/data\/upload\/2\/74db1b18-page_1317.png",
+    "id": 270,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 274,
+    "created_at": "2023-08-22T18:24:46.052718Z",
+    "updated_at": "2023-08-22T18:24:46.052718Z",
+    "lead_time": 1.515
+  },
+  {
+    "image": "\/data\/upload\/2\/2baea454-page_1318.png",
+    "id": 271,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 275,
+    "created_at": "2023-08-22T18:24:50.268732Z",
+    "updated_at": "2023-08-22T18:24:50.268732Z",
+    "lead_time": 1.823
+  },
+  {
+    "image": "\/data\/upload\/2\/05e0356f-page_1319.png",
+    "id": 272,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 276,
+    "created_at": "2023-08-22T18:24:52.585200Z",
+    "updated_at": "2023-08-22T18:24:52.585200Z",
+    "lead_time": 1.184
+  },
+  {
+    "image": "\/data\/upload\/2\/ae4b712a-page_1320.png",
+    "id": 273,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 277,
+    "created_at": "2023-08-22T18:24:57.295085Z",
+    "updated_at": "2023-08-22T18:24:57.295085Z",
+    "lead_time": 1.554
+  },
+  {
+    "image": "\/data\/upload\/2\/ad501099-page_1321.png",
+    "id": 274,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 278,
+    "created_at": "2023-08-22T18:25:00.973262Z",
+    "updated_at": "2023-08-22T18:25:00.973262Z",
+    "lead_time": 1.413
+  },
+  {
+    "image": "\/data\/upload\/2\/7f8862b5-page_1322.png",
+    "id": 275,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 279,
+    "created_at": "2023-08-22T18:25:06.061252Z",
+    "updated_at": "2023-08-22T18:25:06.061252Z",
+    "lead_time": 3.895
+  },
+  {
+    "image": "\/data\/upload\/2\/fe890f9f-page_1323.png",
+    "id": 276,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 280,
+    "created_at": "2023-08-22T18:25:09.045546Z",
+    "updated_at": "2023-08-22T18:25:09.045546Z",
+    "lead_time": 1.556
+  },
+  {
+    "image": "\/data\/upload\/2\/b224d802-page_1324.png",
+    "id": 277,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 281,
+    "created_at": "2023-08-22T18:25:13.521023Z",
+    "updated_at": "2023-08-22T18:25:13.521023Z",
+    "lead_time": 3.151
+  },
+  {
+    "image": "\/data\/upload\/2\/ee4baf8f-page_1325.png",
+    "id": 278,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 282,
+    "created_at": "2023-08-22T18:25:17.817960Z",
+    "updated_at": "2023-08-22T18:25:17.817960Z",
+    "lead_time": 2.585
+  },
+  {
+    "image": "\/data\/upload\/2\/919d34b0-page_1326.png",
+    "id": 279,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 283,
+    "created_at": "2023-08-22T18:25:20.852548Z",
+    "updated_at": "2023-08-22T18:25:20.852548Z",
+    "lead_time": 1.856
+  },
+  {
+    "image": "\/data\/upload\/2\/d0dcc1dd-page_1327.png",
+    "id": 280,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 284,
+    "created_at": "2023-08-22T18:25:25.070477Z",
+    "updated_at": "2023-08-22T18:25:25.070477Z",
+    "lead_time": 1.736
+  },
+  {
+    "image": "\/data\/upload\/2\/3dce253e-page_1328.png",
+    "id": 281,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 285,
+    "created_at": "2023-08-22T18:25:31.470762Z",
+    "updated_at": "2023-08-22T18:25:31.470762Z",
+    "lead_time": 2.324
+  },
+  {
+    "image": "\/data\/upload\/2\/666878cd-page_1329.png",
+    "id": 282,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 286,
+    "created_at": "2023-08-22T18:25:34.534826Z",
+    "updated_at": "2023-08-22T18:25:34.534826Z",
+    "lead_time": 1.843
+  },
+  {
+    "image": "\/data\/upload\/2\/bd0b60aa-page_1330.png",
+    "id": 283,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 287,
+    "created_at": "2023-08-22T18:25:38.137818Z",
+    "updated_at": "2023-08-22T18:25:38.137818Z",
+    "lead_time": 1.201
+  },
+  {
+    "image": "\/data\/upload\/2\/e59bf2be-page_1331.png",
+    "id": 284,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 288,
+    "created_at": "2023-08-22T18:25:40.970703Z",
+    "updated_at": "2023-08-22T18:25:40.970703Z",
+    "lead_time": 1.322
+  },
+  {
+    "image": "\/data\/upload\/2\/3f2a9e8e-page_1332.png",
+    "id": 285,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 289,
+    "created_at": "2023-08-22T18:25:43.070163Z",
+    "updated_at": "2023-08-22T18:25:43.070163Z",
+    "lead_time": 0.975
+  },
+  {
+    "image": "\/data\/upload\/2\/ebd141c7-page_1333.png",
+    "id": 286,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 290,
+    "created_at": "2023-08-22T18:25:45.633085Z",
+    "updated_at": "2023-08-22T18:25:45.633085Z",
+    "lead_time": 0.893
+  },
+  {
+    "image": "\/data\/upload\/2\/d04e5c06-page_1334.png",
+    "id": 287,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 291,
+    "created_at": "2023-08-22T18:25:49.512848Z",
+    "updated_at": "2023-08-22T18:26:14.499198Z",
+    "lead_time": 27.448
+  },
+  {
+    "image": "\/data\/upload\/2\/f855f229-page_1335.png",
+    "id": 288,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 292,
+    "created_at": "2023-08-22T18:26:17.143841Z",
+    "updated_at": "2023-08-22T18:26:17.143841Z",
+    "lead_time": 1.513
+  },
+  {
+    "image": "\/data\/upload\/2\/b4ca4e50-page_1336.png",
+    "id": 289,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 293,
+    "created_at": "2023-08-22T18:26:22.520823Z",
+    "updated_at": "2023-08-22T18:26:22.520823Z",
+    "lead_time": 3.634
+  },
+  {
+    "image": "\/data\/upload\/2\/182650ad-page_1337.png",
+    "id": 290,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 294,
+    "created_at": "2023-08-22T18:26:25.325149Z",
+    "updated_at": "2023-08-22T18:26:25.325149Z",
+    "lead_time": 1.252
+  },
+  {
+    "image": "\/data\/upload\/2\/abb2592e-page_1338.png",
+    "id": 291,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 295,
+    "created_at": "2023-08-22T18:26:28.133181Z",
+    "updated_at": "2023-08-22T18:26:28.133181Z",
+    "lead_time": 1.646
+  },
+  {
+    "image": "\/data\/upload\/2\/bdfa2e68-page_1339.png",
+    "id": 292,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 296,
+    "created_at": "2023-08-22T18:26:31.235967Z",
+    "updated_at": "2023-08-22T18:26:31.235967Z",
+    "lead_time": 1.153
+  },
+  {
+    "image": "\/data\/upload\/2\/8dc0acc6-page_1340.png",
+    "id": 293,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 297,
+    "created_at": "2023-08-22T18:26:34.288820Z",
+    "updated_at": "2023-08-22T18:26:34.288820Z",
+    "lead_time": 1.093
+  },
+  {
+    "image": "\/data\/upload\/2\/992bc322-page_1341.png",
+    "id": 294,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 298,
+    "created_at": "2023-08-22T18:26:37.022815Z",
+    "updated_at": "2023-08-22T18:26:37.022815Z",
+    "lead_time": 1.326
+  },
+  {
+    "image": "\/data\/upload\/2\/186cbb46-page_1342.png",
+    "id": 295,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 299,
+    "created_at": "2023-08-22T18:26:39.525700Z",
+    "updated_at": "2023-08-22T18:26:39.525700Z",
+    "lead_time": 1.209
+  },
+  {
+    "image": "\/data\/upload\/2\/12632efc-page_1343.png",
+    "id": 296,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 300,
+    "created_at": "2023-08-22T18:26:41.707749Z",
+    "updated_at": "2023-08-22T18:26:41.707749Z",
+    "lead_time": 0.993
+  },
+  {
+    "image": "\/data\/upload\/2\/762059bd-page_1344.png",
+    "id": 297,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 301,
+    "created_at": "2023-08-22T18:26:44.339703Z",
+    "updated_at": "2023-08-22T18:26:44.339703Z",
+    "lead_time": 0.98
+  },
+  {
+    "image": "\/data\/upload\/2\/f552716b-page_1345.png",
+    "id": 298,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 302,
+    "created_at": "2023-08-22T18:26:46.908637Z",
+    "updated_at": "2023-08-22T18:26:46.908637Z",
+    "lead_time": 1.454
+  },
+  {
+    "image": "\/data\/upload\/2\/7e1fc235-page_1346.png",
+    "id": 299,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 303,
+    "created_at": "2023-08-22T18:26:49.954448Z",
+    "updated_at": "2023-08-22T18:26:49.954448Z",
+    "lead_time": 1.275
+  },
+  {
+    "image": "\/data\/upload\/2\/8591f219-page_1347.png",
+    "id": 300,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 304,
+    "created_at": "2023-08-22T18:26:53.100045Z",
+    "updated_at": "2023-08-22T18:26:53.100045Z",
+    "lead_time": 1.22
+  },
+  {
+    "image": "\/data\/upload\/2\/36187909-page_1348.png",
+    "id": 301,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 305,
+    "created_at": "2023-08-22T18:26:55.583403Z",
+    "updated_at": "2023-08-22T18:26:55.583403Z",
+    "lead_time": 0.792
+  },
+  {
+    "image": "\/data\/upload\/2\/0ad04467-page_1349.png",
+    "id": 302,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 306,
+    "created_at": "2023-08-22T18:26:57.625724Z",
+    "updated_at": "2023-08-22T18:26:57.625724Z",
+    "lead_time": 0.967
+  },
+  {
+    "image": "\/data\/upload\/2\/6aa968c3-page_1350.png",
+    "id": 303,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 307,
+    "created_at": "2023-08-22T18:26:59.932372Z",
+    "updated_at": "2023-08-22T18:26:59.932372Z",
+    "lead_time": 1.141
+  },
+  {
+    "image": "\/data\/upload\/2\/59016f29-page_1351.png",
+    "id": 304,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 308,
+    "created_at": "2023-08-22T18:27:02.830163Z",
+    "updated_at": "2023-08-22T18:27:02.830163Z",
+    "lead_time": 1.459
+  },
+  {
+    "image": "\/data\/upload\/2\/9b603dee-page_1352.png",
+    "id": 305,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 309,
+    "created_at": "2023-08-22T18:27:04.861486Z",
+    "updated_at": "2023-08-22T18:27:04.861486Z",
+    "lead_time": 0.963
+  },
+  {
+    "image": "\/data\/upload\/2\/8c4d050c-page_1353.png",
+    "id": 306,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 310,
+    "created_at": "2023-08-22T18:27:07.247352Z",
+    "updated_at": "2023-08-22T18:27:07.247352Z",
+    "lead_time": 1.203
+  },
+  {
+    "image": "\/data\/upload\/2\/8dd94a8d-page_1354.png",
+    "id": 307,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 311,
+    "created_at": "2023-08-22T18:27:10.550682Z",
+    "updated_at": "2023-08-22T18:27:10.550682Z",
+    "lead_time": 1.268
+  },
+  {
+    "image": "\/data\/upload\/2\/bba37dd0-page_1355.png",
+    "id": 308,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 312,
+    "created_at": "2023-08-22T18:27:13.030523Z",
+    "updated_at": "2023-08-22T18:27:13.030523Z",
+    "lead_time": 1.087
+  },
+  {
+    "image": "\/data\/upload\/2\/ce501adc-page_1356.png",
+    "id": 309,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 313,
+    "created_at": "2023-08-22T18:27:16.539781Z",
+    "updated_at": "2023-08-22T18:27:16.539781Z",
+    "lead_time": 2.419
+  },
+  {
+    "image": "\/data\/upload\/2\/90990d98-page_1357.png",
+    "id": 310,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 314,
+    "created_at": "2023-08-22T18:27:18.381173Z",
+    "updated_at": "2023-08-22T18:27:18.381173Z",
+    "lead_time": 0.799
+  },
+  {
+    "image": "\/data\/upload\/2\/7b6f2255-page_1358.png",
+    "id": 311,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 315,
+    "created_at": "2023-08-22T18:27:20.385327Z",
+    "updated_at": "2023-08-22T18:27:20.385327Z",
+    "lead_time": 0.865
+  },
+  {
+    "image": "\/data\/upload\/2\/6a01f546-page_1359.png",
+    "id": 312,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 316,
+    "created_at": "2023-08-22T18:27:22.527229Z",
+    "updated_at": "2023-08-22T18:27:22.527229Z",
+    "lead_time": 0.898
+  },
+  {
+    "image": "\/data\/upload\/2\/09062e24-page_1360.png",
+    "id": 313,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 317,
+    "created_at": "2023-08-22T18:27:24.793473Z",
+    "updated_at": "2023-08-22T18:27:24.793473Z",
+    "lead_time": 1.101
+  },
+  {
+    "image": "\/data\/upload\/2\/08fb7f63-page_1361.png",
+    "id": 314,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 318,
+    "created_at": "2023-08-22T18:27:27.626565Z",
+    "updated_at": "2023-08-22T18:27:27.627521Z",
+    "lead_time": 0.87
+  },
+  {
+    "image": "\/data\/upload\/2\/0ecfa4c7-page_1362.png",
+    "id": 315,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 319,
+    "created_at": "2023-08-22T18:27:30.477329Z",
+    "updated_at": "2023-08-22T18:27:30.477329Z",
+    "lead_time": 1.273
+  },
+  {
+    "image": "\/data\/upload\/2\/51059bdf-page_1363.png",
+    "id": 316,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 320,
+    "created_at": "2023-08-22T18:27:32.430326Z",
+    "updated_at": "2023-08-22T18:27:32.430326Z",
+    "lead_time": 0.865
+  },
+  {
+    "image": "\/data\/upload\/2\/ee8b9d48-page_1364.png",
+    "id": 317,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 321,
+    "created_at": "2023-08-22T18:27:34.934231Z",
+    "updated_at": "2023-08-22T18:27:34.934231Z",
+    "lead_time": 0.776
+  },
+  {
+    "image": "\/data\/upload\/2\/4da5da3f-page_1365.png",
+    "id": 318,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 322,
+    "created_at": "2023-08-22T18:27:36.698403Z",
+    "updated_at": "2023-08-22T18:27:36.698403Z",
+    "lead_time": 0.74
+  },
+  {
+    "image": "\/data\/upload\/2\/aa7d9919-page_1366.png",
+    "id": 319,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 323,
+    "created_at": "2023-08-22T18:27:41.138823Z",
+    "updated_at": "2023-08-22T18:27:41.138823Z",
+    "lead_time": 2.742
+  },
+  {
+    "image": "\/data\/upload\/2\/b262bdc0-page_1367.png",
+    "id": 320,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 324,
+    "created_at": "2023-08-22T18:27:43.580743Z",
+    "updated_at": "2023-08-22T18:27:43.580743Z",
+    "lead_time": 1.196
+  },
+  {
+    "image": "\/data\/upload\/2\/2924588d-page_1368.png",
+    "id": 321,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 325,
+    "created_at": "2023-08-22T18:27:46.444658Z",
+    "updated_at": "2023-08-22T18:27:46.444658Z",
+    "lead_time": 0.904
+  },
+  {
+    "image": "\/data\/upload\/2\/0d0d6bda-page_1369.png",
+    "id": 322,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 326,
+    "created_at": "2023-08-22T18:27:48.537527Z",
+    "updated_at": "2023-08-22T18:27:48.537527Z",
+    "lead_time": 0.857
+  },
+  {
+    "image": "\/data\/upload\/2\/adc80b0b-page_1370.png",
+    "id": 323,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 327,
+    "created_at": "2023-08-22T18:27:51.242295Z",
+    "updated_at": "2023-08-22T18:27:51.242295Z",
+    "lead_time": 1.012
+  },
+  {
+    "image": "\/data\/upload\/2\/8762c4ff-page_1371.png",
+    "id": 324,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 328,
+    "created_at": "2023-08-22T18:27:53.707642Z",
+    "updated_at": "2023-08-22T18:27:53.707642Z",
+    "lead_time": 0.994
+  },
+  {
+    "image": "\/data\/upload\/2\/843c266b-page_1372.png",
+    "id": 325,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 329,
+    "created_at": "2023-08-22T18:27:56.253209Z",
+    "updated_at": "2023-08-22T18:27:56.253209Z",
+    "lead_time": 1.021
+  },
+  {
+    "image": "\/data\/upload\/2\/98ae6417-page_1373.png",
+    "id": 326,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 330,
+    "created_at": "2023-08-22T18:27:58.189423Z",
+    "updated_at": "2023-08-22T18:27:58.189423Z",
+    "lead_time": 0.876
+  },
+  {
+    "image": "\/data\/upload\/2\/0f48311b-page_1374.png",
+    "id": 327,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 331,
+    "created_at": "2023-08-22T18:28:00.630069Z",
+    "updated_at": "2023-08-22T18:28:00.630069Z",
+    "lead_time": 1.018
+  },
+  {
+    "image": "\/data\/upload\/2\/e27ed0a5-page_1375.png",
+    "id": 328,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 332,
+    "created_at": "2023-08-22T18:28:11.386973Z",
+    "updated_at": "2023-08-22T18:28:11.386973Z",
+    "lead_time": 9.749
+  },
+  {
+    "image": "\/data\/upload\/2\/d0619bec-page_1376.png",
+    "id": 329,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 333,
+    "created_at": "2023-08-22T18:28:15.054479Z",
+    "updated_at": "2023-08-22T18:28:15.054479Z",
+    "lead_time": 2.277
+  },
+  {
+    "image": "\/data\/upload\/2\/24e2957b-page_1377.png",
+    "id": 330,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 334,
+    "created_at": "2023-08-22T18:28:21.348775Z",
+    "updated_at": "2023-08-22T18:28:21.348775Z",
+    "lead_time": 3.24
+  },
+  {
+    "image": "\/data\/upload\/2\/f78e91a1-page_1378.png",
+    "id": 331,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 335,
+    "created_at": "2023-08-22T18:28:24.750992Z",
+    "updated_at": "2023-08-22T18:28:24.750992Z",
+    "lead_time": 1.57
+  },
+  {
+    "image": "\/data\/upload\/2\/45358ac5-page_1379.png",
+    "id": 332,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 336,
+    "created_at": "2023-08-22T18:28:27.688311Z",
+    "updated_at": "2023-08-22T18:28:27.688311Z",
+    "lead_time": 1.489
+  },
+  {
+    "image": "\/data\/upload\/2\/a86af195-page_1380.png",
+    "id": 333,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 337,
+    "created_at": "2023-08-22T18:28:30.460649Z",
+    "updated_at": "2023-08-22T18:28:30.460649Z",
+    "lead_time": 1.303
+  },
+  {
+    "image": "\/data\/upload\/2\/de3ffa42-page_1381.png",
+    "id": 334,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 338,
+    "created_at": "2023-08-22T18:28:33.035834Z",
+    "updated_at": "2023-08-22T18:28:33.035834Z",
+    "lead_time": 1.003
+  },
+  {
+    "image": "\/data\/upload\/2\/a7ddc6b9-page_1382.png",
+    "id": 335,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 339,
+    "created_at": "2023-08-22T18:28:35.522641Z",
+    "updated_at": "2023-08-22T18:28:35.522641Z",
+    "lead_time": 1.029
+  },
+  {
+    "image": "\/data\/upload\/2\/1551b274-page_1383.png",
+    "id": 336,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 340,
+    "created_at": "2023-08-22T18:28:38.320945Z",
+    "updated_at": "2023-08-22T18:28:38.320945Z",
+    "lead_time": 1.07
+  },
+  {
+    "image": "\/data\/upload\/2\/b56d542e-page_1384.png",
+    "id": 337,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 341,
+    "created_at": "2023-08-22T18:28:44.311352Z",
+    "updated_at": "2023-08-22T18:28:44.311352Z",
+    "lead_time": 4.313
+  },
+  {
+    "image": "\/data\/upload\/2\/1b3e640a-page_1385.png",
+    "id": 338,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 342,
+    "created_at": "2023-08-22T18:28:49.807912Z",
+    "updated_at": "2023-08-22T18:28:49.807912Z",
+    "lead_time": 2.183
+  },
+  {
+    "image": "\/data\/upload\/2\/5d8682ca-page_1386.png",
+    "id": 339,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 343,
+    "created_at": "2023-08-22T18:28:52.616836Z",
+    "updated_at": "2023-08-22T18:28:52.616836Z",
+    "lead_time": 1.165
+  },
+  {
+    "image": "\/data\/upload\/2\/68cd6e2b-page_1387.png",
+    "id": 340,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 344,
+    "created_at": "2023-08-22T18:28:56.292733Z",
+    "updated_at": "2023-08-22T18:28:56.292733Z",
+    "lead_time": 1.135
+  },
+  {
+    "image": "\/data\/upload\/2\/9f302b8f-page_1388.png",
+    "id": 341,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 345,
+    "created_at": "2023-08-22T18:29:00.088558Z",
+    "updated_at": "2023-08-22T18:29:00.089559Z",
+    "lead_time": 0.88
+  },
+  {
+    "image": "\/data\/upload\/2\/4d18a2b8-page_1389.png",
+    "id": 342,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 346,
+    "created_at": "2023-08-22T18:29:02.430112Z",
+    "updated_at": "2023-08-22T18:29:02.430112Z",
+    "lead_time": 1.228
+  },
+  {
+    "image": "\/data\/upload\/2\/1910d643-page_1390.png",
+    "id": 343,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 347,
+    "created_at": "2023-08-22T18:29:04.597062Z",
+    "updated_at": "2023-08-22T18:29:04.597062Z",
+    "lead_time": 0.898
+  },
+  {
+    "image": "\/data\/upload\/2\/6c62d945-page_1391.png",
+    "id": 344,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 348,
+    "created_at": "2023-08-22T18:29:06.980561Z",
+    "updated_at": "2023-08-22T18:29:06.980561Z",
+    "lead_time": 1.162
+  },
+  {
+    "image": "\/data\/upload\/2\/0ed0d1b6-page_1392.png",
+    "id": 345,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 349,
+    "created_at": "2023-08-22T18:29:10.162663Z",
+    "updated_at": "2023-08-22T18:29:10.162663Z",
+    "lead_time": 0.936
+  },
+  {
+    "image": "\/data\/upload\/2\/82fd60dd-page_1393.png",
+    "id": 346,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 350,
+    "created_at": "2023-08-22T18:29:12.562467Z",
+    "updated_at": "2023-08-22T18:29:12.562467Z",
+    "lead_time": 1.066
+  },
+  {
+    "image": "\/data\/upload\/2\/bf97a4fb-page_1394.png",
+    "id": 347,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 351,
+    "created_at": "2023-08-22T18:29:14.630375Z",
+    "updated_at": "2023-08-22T18:29:14.630375Z",
+    "lead_time": 0.609
+  },
+  {
+    "image": "\/data\/upload\/2\/5387098e-page_1395.png",
+    "id": 348,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 352,
+    "created_at": "2023-08-22T18:29:16.710486Z",
+    "updated_at": "2023-08-22T18:29:16.710486Z",
+    "lead_time": 0.877
+  },
+  {
+    "image": "\/data\/upload\/2\/f82ed8dc-page_1396.png",
+    "id": 349,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 353,
+    "created_at": "2023-08-22T18:29:19.825024Z",
+    "updated_at": "2023-08-22T18:29:19.825024Z",
+    "lead_time": 1.501
+  },
+  {
+    "image": "\/data\/upload\/2\/fb3f0331-page_1397.png",
+    "id": 350,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 354,
+    "created_at": "2023-08-22T18:29:21.745665Z",
+    "updated_at": "2023-08-22T18:29:21.745665Z",
+    "lead_time": 0.829
+  },
+  {
+    "image": "\/data\/upload\/2\/d4365b94-page_1398.png",
+    "id": 351,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 355,
+    "created_at": "2023-08-22T18:29:24.705397Z",
+    "updated_at": "2023-08-22T18:29:24.705397Z",
+    "lead_time": 1.224
+  },
+  {
+    "image": "\/data\/upload\/2\/8cb31c1e-page_1399.png",
+    "id": 352,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 356,
+    "created_at": "2023-08-22T18:29:26.932995Z",
+    "updated_at": "2023-08-22T18:29:26.932995Z",
+    "lead_time": 1.039
+  },
+  {
+    "image": "\/data\/upload\/2\/20c223cb-page_1400.png",
+    "id": 353,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 357,
+    "created_at": "2023-08-22T18:30:00.749058Z",
+    "updated_at": "2023-08-22T18:30:00.749058Z",
+    "lead_time": 1.755
+  },
+  {
+    "image": "\/data\/upload\/2\/6025b637-page_1401.png",
+    "id": 354,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 358,
+    "created_at": "2023-08-22T18:30:03.956461Z",
+    "updated_at": "2023-08-22T18:30:03.957429Z",
+    "lead_time": 1.405
+  },
+  {
+    "image": "\/data\/upload\/2\/4e85fa36-page_1402.png",
+    "id": 355,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 359,
+    "created_at": "2023-08-22T18:30:06.210928Z",
+    "updated_at": "2023-08-22T18:30:06.210928Z",
+    "lead_time": 1.172
+  },
+  {
+    "image": "\/data\/upload\/2\/25914c71-page_1403.png",
+    "id": 356,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 360,
+    "created_at": "2023-08-22T18:30:40.906808Z",
+    "updated_at": "2023-08-22T18:30:40.906808Z",
+    "lead_time": 1.772
+  },
+  {
+    "image": "\/data\/upload\/2\/8bb6a862-page_1404.png",
+    "id": 357,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 361,
+    "created_at": "2023-08-22T18:30:43.787598Z",
+    "updated_at": "2023-08-22T18:30:43.787598Z",
+    "lead_time": 1.537
+  },
+  {
+    "image": "\/data\/upload\/2\/becc65b5-page_1405.png",
+    "id": 358,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 362,
+    "created_at": "2023-08-22T18:30:47.301707Z",
+    "updated_at": "2023-08-22T18:30:47.301707Z",
+    "lead_time": 1.955
+  },
+  {
+    "image": "\/data\/upload\/2\/bfb3c001-page_1406.png",
+    "id": 359,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 363,
+    "created_at": "2023-08-22T18:30:50.167826Z",
+    "updated_at": "2023-08-22T18:30:50.168859Z",
+    "lead_time": 1.663
+  },
+  {
+    "image": "\/data\/upload\/2\/08f5080b-page_1407.png",
+    "id": 360,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 364,
+    "created_at": "2023-08-22T18:30:52.612136Z",
+    "updated_at": "2023-08-22T18:30:52.612136Z",
+    "lead_time": 0.935
+  },
+  {
+    "image": "\/data\/upload\/2\/a19cd83a-page_1408.png",
+    "id": 361,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 365,
+    "created_at": "2023-08-22T18:30:57.695880Z",
+    "updated_at": "2023-08-22T18:30:57.695880Z",
+    "lead_time": 2.528
+  },
+  {
+    "image": "\/data\/upload\/2\/25f5c3d1-page_1409.png",
+    "id": 362,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 366,
+    "created_at": "2023-08-22T18:31:01.505003Z",
+    "updated_at": "2023-08-22T18:31:01.505003Z",
+    "lead_time": 1.283
+  },
+  {
+    "image": "\/data\/upload\/2\/2d5a9910-page_1410.png",
+    "id": 363,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 367,
+    "created_at": "2023-08-22T18:31:03.924014Z",
+    "updated_at": "2023-08-22T18:31:03.924014Z",
+    "lead_time": 0.986
+  },
+  {
+    "image": "\/data\/upload\/2\/416b4bf6-page_1411.png",
+    "id": 364,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 368,
+    "created_at": "2023-08-22T18:31:06.184286Z",
+    "updated_at": "2023-08-22T18:31:06.184286Z",
+    "lead_time": 1.052
+  },
+  {
+    "image": "\/data\/upload\/2\/77b05231-page_1412.png",
+    "id": 365,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 369,
+    "created_at": "2023-08-22T18:31:09.652417Z",
+    "updated_at": "2023-08-22T18:31:09.652417Z",
+    "lead_time": 2.219
+  },
+  {
+    "image": "\/data\/upload\/2\/f5c71bf2-page_1413.png",
+    "id": 366,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 370,
+    "created_at": "2023-08-22T18:31:13.063672Z",
+    "updated_at": "2023-08-22T18:31:13.063672Z",
+    "lead_time": 1.617
+  },
+  {
+    "image": "\/data\/upload\/2\/069504ca-page_1414.png",
+    "id": 367,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 371,
+    "created_at": "2023-08-22T18:31:15.842879Z",
+    "updated_at": "2023-08-22T18:31:15.842879Z",
+    "lead_time": 1.298
+  },
+  {
+    "image": "\/data\/upload\/2\/254ed1c3-page_1415.png",
+    "id": 368,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 372,
+    "created_at": "2023-08-22T18:31:21.290181Z",
+    "updated_at": "2023-08-22T18:31:21.290181Z",
+    "lead_time": 3.984
+  },
+  {
+    "image": "\/data\/upload\/2\/ca28ea49-page_1416.png",
+    "id": 369,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 373,
+    "created_at": "2023-08-22T18:31:26.469283Z",
+    "updated_at": "2023-08-22T18:31:26.469283Z",
+    "lead_time": 2.34
+  },
+  {
+    "image": "\/data\/upload\/2\/1684cae5-page_1417.png",
+    "id": 370,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 374,
+    "created_at": "2023-08-22T18:31:30.188649Z",
+    "updated_at": "2023-08-22T18:31:30.188649Z",
+    "lead_time": 2.273
+  },
+  {
+    "image": "\/data\/upload\/2\/50ccdc14-page_1418.png",
+    "id": 371,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 375,
+    "created_at": "2023-08-22T18:31:33.268951Z",
+    "updated_at": "2023-08-22T18:31:33.268951Z",
+    "lead_time": 1.404
+  },
+  {
+    "image": "\/data\/upload\/2\/0b963f07-page_1419.png",
+    "id": 372,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 376,
+    "created_at": "2023-08-22T18:31:35.521338Z",
+    "updated_at": "2023-08-22T18:31:35.521338Z",
+    "lead_time": 0.973
+  },
+  {
+    "image": "\/data\/upload\/2\/dc9a2b27-page_1420.png",
+    "id": 373,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 377,
+    "created_at": "2023-08-22T18:31:40.286897Z",
+    "updated_at": "2023-08-22T18:31:40.286897Z",
+    "lead_time": 3.077
+  },
+  {
+    "image": "\/data\/upload\/2\/8e1d7ab7-page_1421.png",
+    "id": 374,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 378,
+    "created_at": "2023-08-22T18:31:43.688464Z",
+    "updated_at": "2023-08-22T18:31:43.688464Z",
+    "lead_time": 1.462
+  },
+  {
+    "image": "\/data\/upload\/2\/fb53f118-page_1422.png",
+    "id": 375,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 379,
+    "created_at": "2023-08-22T18:31:46.212797Z",
+    "updated_at": "2023-08-22T18:31:46.212797Z",
+    "lead_time": 1.199
+  },
+  {
+    "image": "\/data\/upload\/2\/2e76c77d-page_1423.png",
+    "id": 376,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 380,
+    "created_at": "2023-08-22T18:31:48.902167Z",
+    "updated_at": "2023-08-22T18:31:48.902167Z",
+    "lead_time": 1.444
+  },
+  {
+    "image": "\/data\/upload\/2\/6629ef6b-page_1424.png",
+    "id": 377,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 381,
+    "created_at": "2023-08-22T18:31:51.807813Z",
+    "updated_at": "2023-08-22T18:31:51.807813Z",
+    "lead_time": 1.211
+  },
+  {
+    "image": "\/data\/upload\/2\/e1584910-page_1425.png",
+    "id": 378,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 382,
+    "created_at": "2023-08-22T18:31:55.211043Z",
+    "updated_at": "2023-08-22T18:31:55.211043Z",
+    "lead_time": 1.806
+  },
+  {
+    "image": "\/data\/upload\/2\/c1bd03ad-page_1426.png",
+    "id": 379,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 383,
+    "created_at": "2023-08-22T18:31:58.036345Z",
+    "updated_at": "2023-08-22T18:32:13.406514Z",
+    "lead_time": 15.786999999999999
+  },
+  {
+    "image": "\/data\/upload\/2\/8e3795db-page_1427.png",
+    "id": 380,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 384,
+    "created_at": "2023-08-22T18:32:22.025612Z",
+    "updated_at": "2023-08-22T18:32:22.025612Z",
+    "lead_time": 1.486
+  },
+  {
+    "image": "\/data\/upload\/2\/9820f5a6-page_1428.png",
+    "id": 381,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 385,
+    "created_at": "2023-08-22T18:32:26.003569Z",
+    "updated_at": "2023-08-22T18:32:26.003569Z",
+    "lead_time": 0.936
+  },
+  {
+    "image": "\/data\/upload\/2\/b1e0ddb6-page_1429.png",
+    "id": 382,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 386,
+    "created_at": "2023-08-22T18:32:28.161811Z",
+    "updated_at": "2023-08-22T18:32:28.161811Z",
+    "lead_time": 0.825
+  },
+  {
+    "image": "\/data\/upload\/2\/b4cbcd30-page_1430.png",
+    "id": 383,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 387,
+    "created_at": "2023-08-22T18:32:31.265400Z",
+    "updated_at": "2023-08-22T18:32:31.265400Z",
+    "lead_time": 1.797
+  },
+  {
+    "image": "\/data\/upload\/2\/f3a5cbe1-page_1431.png",
+    "id": 384,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 388,
+    "created_at": "2023-08-22T18:32:49.073737Z",
+    "updated_at": "2023-08-22T18:32:49.073737Z",
+    "lead_time": 1.398
+  },
+  {
+    "image": "\/data\/upload\/2\/93403572-page_1432.png",
+    "id": 385,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 389,
+    "created_at": "2023-08-22T18:32:52.410353Z",
+    "updated_at": "2023-08-22T18:32:52.410353Z",
+    "lead_time": 1.957
+  },
+  {
+    "image": "\/data\/upload\/2\/6b951b02-page_1433.png",
+    "id": 386,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 390,
+    "created_at": "2023-08-22T18:32:56.986990Z",
+    "updated_at": "2023-08-22T18:32:56.986990Z",
+    "lead_time": 1.193
+  },
+  {
+    "image": "\/data\/upload\/2\/5744fcf8-page_1434.png",
+    "id": 387,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 391,
+    "created_at": "2023-08-22T18:33:02.700182Z",
+    "updated_at": "2023-08-22T18:33:02.700182Z",
+    "lead_time": 1.669
+  },
+  {
+    "image": "\/data\/upload\/2\/e0a64503-page_1435.png",
+    "id": 388,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 392,
+    "created_at": "2023-08-22T18:33:05.245869Z",
+    "updated_at": "2023-08-22T18:33:05.245869Z",
+    "lead_time": 1.104
+  },
+  {
+    "image": "\/data\/upload\/2\/7c615e6f-page_1436.png",
+    "id": 389,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 393,
+    "created_at": "2023-08-22T18:33:11.796202Z",
+    "updated_at": "2023-08-22T18:33:11.796202Z",
+    "lead_time": 5.099
+  },
+  {
+    "image": "\/data\/upload\/2\/e35bb6d1-page_1437.png",
+    "id": 390,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 394,
+    "created_at": "2023-08-22T18:33:17.295480Z",
+    "updated_at": "2023-08-22T18:33:17.295480Z",
+    "lead_time": 2.846
+  },
+  {
+    "image": "\/data\/upload\/2\/7af8e1e4-page_1438.png",
+    "id": 391,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 395,
+    "created_at": "2023-08-22T18:33:20.122487Z",
+    "updated_at": "2023-08-22T18:33:20.122487Z",
+    "lead_time": 1.309
+  },
+  {
+    "image": "\/data\/upload\/2\/2104772e-page_1439.png",
+    "id": 392,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 396,
+    "created_at": "2023-08-22T18:34:14.858181Z",
+    "updated_at": "2023-08-22T18:34:14.858181Z",
+    "lead_time": 52.901
+  },
+  {
+    "image": "\/data\/upload\/2\/5cf49689-page_1440.png",
+    "id": 393,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 397,
+    "created_at": "2023-08-22T18:34:17.558847Z",
+    "updated_at": "2023-08-22T18:34:17.558847Z",
+    "lead_time": 1.129
+  },
+  {
+    "image": "\/data\/upload\/2\/b7501374-page_1441.png",
+    "id": 394,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 398,
+    "created_at": "2023-08-22T18:34:25.983127Z",
+    "updated_at": "2023-08-22T18:34:25.983127Z",
+    "lead_time": 5.972
+  },
+  {
+    "image": "\/data\/upload\/2\/0d438cc8-page_1442.png",
+    "id": 395,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 399,
+    "created_at": "2023-08-22T18:34:31.215418Z",
+    "updated_at": "2023-08-22T18:34:31.215418Z",
+    "lead_time": 2.427
+  },
+  {
+    "image": "\/data\/upload\/2\/f642821a-page_1443.png",
+    "id": 396,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 400,
+    "created_at": "2023-08-22T18:34:34.274296Z",
+    "updated_at": "2023-08-22T18:34:34.274296Z",
+    "lead_time": 1.679
+  },
+  {
+    "image": "\/data\/upload\/2\/c49cdc60-page_1444.png",
+    "id": 397,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 401,
+    "created_at": "2023-08-22T18:34:37.623169Z",
+    "updated_at": "2023-08-22T18:34:37.623169Z",
+    "lead_time": 1.977
+  },
+  {
+    "image": "\/data\/upload\/2\/a6f04c25-page_1445.png",
+    "id": 398,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 402,
+    "created_at": "2023-08-22T18:34:41.127546Z",
+    "updated_at": "2023-08-22T18:34:41.127546Z",
+    "lead_time": 1.907
+  },
+  {
+    "image": "\/data\/upload\/2\/76488041-page_1446.png",
+    "id": 399,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 403,
+    "created_at": "2023-08-22T18:34:44.479054Z",
+    "updated_at": "2023-08-22T18:34:44.479054Z",
+    "lead_time": 1.864
+  },
+  {
+    "image": "\/data\/upload\/2\/2962a214-page_1447.png",
+    "id": 400,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 404,
+    "created_at": "2023-08-22T18:34:48.614739Z",
+    "updated_at": "2023-08-22T18:34:48.614739Z",
+    "lead_time": 2.055
+  },
+  {
+    "image": "\/data\/upload\/2\/8b7b5a79-page_1448.png",
+    "id": 401,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 405,
+    "created_at": "2023-08-22T18:34:57.243166Z",
+    "updated_at": "2023-08-22T18:34:57.243166Z",
+    "lead_time": 4.795
+  },
+  {
+    "image": "\/data\/upload\/2\/1af380ad-page_1449.png",
+    "id": 402,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 406,
+    "created_at": "2023-08-22T18:35:19.525003Z",
+    "updated_at": "2023-08-22T18:35:19.525003Z",
+    "lead_time": 21.174
+  },
+  {
+    "image": "\/data\/upload\/2\/8aa2ab70-page_1450.png",
+    "id": 403,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 407,
+    "created_at": "2023-08-22T18:35:23.988300Z",
+    "updated_at": "2023-08-22T18:35:23.988300Z",
+    "lead_time": 2.347
+  },
+  {
+    "image": "\/data\/upload\/2\/a9f68e1a-page_1451.png",
+    "id": 404,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 408,
+    "created_at": "2023-08-22T18:35:27.757745Z",
+    "updated_at": "2023-08-22T18:35:27.757745Z",
+    "lead_time": 1.492
+  },
+  {
+    "image": "\/data\/upload\/2\/68834f8a-page_1452.png",
+    "id": 405,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 409,
+    "created_at": "2023-08-22T18:35:30.661647Z",
+    "updated_at": "2023-08-22T18:35:30.661647Z",
+    "lead_time": 1.214
+  },
+  {
+    "image": "\/data\/upload\/2\/0c359157-page_1453.png",
+    "id": 406,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 410,
+    "created_at": "2023-08-22T18:35:33.133295Z",
+    "updated_at": "2023-08-22T18:35:33.133295Z",
+    "lead_time": 1.625
+  },
+  {
+    "image": "\/data\/upload\/2\/d0591f11-page_1454.png",
+    "id": 407,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 411,
+    "created_at": "2023-08-22T18:35:36.863319Z",
+    "updated_at": "2023-08-22T18:35:36.863319Z",
+    "lead_time": 1.97
+  },
+  {
+    "image": "\/data\/upload\/2\/17725989-page_1455.png",
+    "id": 408,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 412,
+    "created_at": "2023-08-22T18:35:38.993067Z",
+    "updated_at": "2023-08-22T18:35:38.993067Z",
+    "lead_time": 1.079
+  },
+  {
+    "image": "\/data\/upload\/2\/8c9618fc-page_1456.png",
+    "id": 409,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 413,
+    "created_at": "2023-08-22T18:35:41.231303Z",
+    "updated_at": "2023-08-22T18:35:41.231303Z",
+    "lead_time": 0.859
+  },
+  {
+    "image": "\/data\/upload\/2\/1031ec36-page_1457.png",
+    "id": 410,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 414,
+    "created_at": "2023-08-22T18:35:44.583031Z",
+    "updated_at": "2023-08-22T18:35:44.583031Z",
+    "lead_time": 1.202
+  },
+  {
+    "image": "\/data\/upload\/2\/4f84c515-page_1458.png",
+    "id": 411,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 415,
+    "created_at": "2023-08-22T18:35:46.419017Z",
+    "updated_at": "2023-08-22T18:35:56.609799Z",
+    "lead_time": 10.686
+  },
+  {
+    "image": "\/data\/upload\/2\/46180e6f-page_1459.png",
+    "id": 412,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 416,
+    "created_at": "2023-08-22T18:36:11.963597Z",
+    "updated_at": "2023-08-22T18:36:11.963597Z",
+    "lead_time": 1.958
+  },
+  {
+    "image": "\/data\/upload\/2\/55a39406-page_1460.png",
+    "id": 413,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 417,
+    "created_at": "2023-08-22T18:36:14.770016Z",
+    "updated_at": "2023-08-22T18:36:14.770016Z",
+    "lead_time": 1.413
+  },
+  {
+    "image": "\/data\/upload\/2\/fa3a0fcf-page_1461.png",
+    "id": 414,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 418,
+    "created_at": "2023-08-22T18:36:18.062123Z",
+    "updated_at": "2023-08-22T18:36:18.062123Z",
+    "lead_time": 2.374
+  },
+  {
+    "image": "\/data\/upload\/2\/235201a5-page_1462.png",
+    "id": 415,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 419,
+    "created_at": "2023-08-22T18:36:22.307204Z",
+    "updated_at": "2023-08-22T18:36:22.307204Z",
+    "lead_time": 2.328
+  },
+  {
+    "image": "\/data\/upload\/2\/72374884-page_1463.png",
+    "id": 416,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 420,
+    "created_at": "2023-08-22T18:36:25.741911Z",
+    "updated_at": "2023-08-22T18:36:25.741911Z",
+    "lead_time": 1.989
+  },
+  {
+    "image": "\/data\/upload\/2\/f54759c0-page_1464.png",
+    "id": 417,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 421,
+    "created_at": "2023-08-22T18:36:28.987208Z",
+    "updated_at": "2023-08-22T18:36:28.987208Z",
+    "lead_time": 2.251
+  },
+  {
+    "image": "\/data\/upload\/2\/9615b4bf-page_1465.png",
+    "id": 418,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 422,
+    "created_at": "2023-08-22T18:36:32.699309Z",
+    "updated_at": "2023-08-22T18:36:32.699309Z",
+    "lead_time": 2.135
+  },
+  {
+    "image": "\/data\/upload\/2\/452310ee-page_1466.png",
+    "id": 419,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 423,
+    "created_at": "2023-08-22T18:36:35.097255Z",
+    "updated_at": "2023-08-22T18:36:35.097255Z",
+    "lead_time": 1.095
+  },
+  {
+    "image": "\/data\/upload\/2\/a82bf744-page_1467.png",
+    "id": 420,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 424,
+    "created_at": "2023-08-22T18:36:39.142748Z",
+    "updated_at": "2023-08-22T18:36:39.143734Z",
+    "lead_time": 3.114
+  },
+  {
+    "image": "\/data\/upload\/2\/9f265bac-page_1468.png",
+    "id": 421,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 425,
+    "created_at": "2023-08-22T18:36:42.516027Z",
+    "updated_at": "2023-08-22T18:36:42.516027Z",
+    "lead_time": 1.539
+  },
+  {
+    "image": "\/data\/upload\/2\/27bbd7d8-page_1469.png",
+    "id": 422,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 426,
+    "created_at": "2023-08-22T18:36:45.021039Z",
+    "updated_at": "2023-08-22T18:36:45.021039Z",
+    "lead_time": 0.9
+  },
+  {
+    "image": "\/data\/upload\/2\/2446665f-page_1470.png",
+    "id": 423,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 427,
+    "created_at": "2023-08-22T18:36:51.115225Z",
+    "updated_at": "2023-08-22T18:36:51.115225Z",
+    "lead_time": 1.1
+  },
+  {
+    "image": "\/data\/upload\/2\/175129d4-page_1471.png",
+    "id": 424,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 428,
+    "created_at": "2023-08-22T18:36:53.506593Z",
+    "updated_at": "2023-08-22T18:36:53.506593Z",
+    "lead_time": 0.824
+  },
+  {
+    "image": "\/data\/upload\/2\/39a1476b-page_1472.png",
+    "id": 425,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 429,
+    "created_at": "2023-08-22T18:36:55.410875Z",
+    "updated_at": "2023-08-22T18:36:55.410875Z",
+    "lead_time": 0.945
+  },
+  {
+    "image": "\/data\/upload\/2\/2a93e59e-page_1473.png",
+    "id": 426,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 430,
+    "created_at": "2023-08-22T18:36:58.548352Z",
+    "updated_at": "2023-08-22T18:36:58.548352Z",
+    "lead_time": 1.23
+  },
+  {
+    "image": "\/data\/upload\/2\/fc6ce4f5-page_1474.png",
+    "id": 427,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 431,
+    "created_at": "2023-08-22T18:37:00.782815Z",
+    "updated_at": "2023-08-22T18:37:00.782815Z",
+    "lead_time": 0.95
+  },
+  {
+    "image": "\/data\/upload\/2\/e822a421-page_1475.png",
+    "id": 428,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 432,
+    "created_at": "2023-08-22T18:37:03.678167Z",
+    "updated_at": "2023-08-22T18:37:03.678167Z",
+    "lead_time": 1.905
+  },
+  {
+    "image": "\/data\/upload\/2\/a131f824-page_1476.png",
+    "id": 429,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 433,
+    "created_at": "2023-08-22T18:37:05.952292Z",
+    "updated_at": "2023-08-22T18:37:05.952292Z",
+    "lead_time": 0.829
+  },
+  {
+    "image": "\/data\/upload\/2\/e6e74070-page_1477.png",
+    "id": 430,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 434,
+    "created_at": "2023-08-22T18:37:08.193969Z",
+    "updated_at": "2023-08-22T18:37:08.193969Z",
+    "lead_time": 1.01
+  },
+  {
+    "image": "\/data\/upload\/2\/80ee0de1-page_1478.png",
+    "id": 431,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 435,
+    "created_at": "2023-08-22T18:37:10.103798Z",
+    "updated_at": "2023-08-22T18:37:10.103798Z",
+    "lead_time": 0.833
+  },
+  {
+    "image": "\/data\/upload\/2\/f9250cbb-page_1479.png",
+    "id": 432,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 436,
+    "created_at": "2023-08-22T18:37:13.105965Z",
+    "updated_at": "2023-08-22T18:37:13.105965Z",
+    "lead_time": 2.019
+  },
+  {
+    "image": "\/data\/upload\/2\/3e12c93d-page_1480.png",
+    "id": 433,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 437,
+    "created_at": "2023-08-22T18:37:17.889829Z",
+    "updated_at": "2023-08-22T18:37:17.889829Z",
+    "lead_time": 3.495
+  },
+  {
+    "image": "\/data\/upload\/2\/73b4a483-page_1481.png",
+    "id": 434,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 438,
+    "created_at": "2023-08-22T18:37:20.502515Z",
+    "updated_at": "2023-08-22T18:37:20.502515Z",
+    "lead_time": 0.877
+  },
+  {
+    "image": "\/data\/upload\/2\/eb59e1a5-page_1482.png",
+    "id": 435,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 439,
+    "created_at": "2023-08-22T18:37:22.822185Z",
+    "updated_at": "2023-08-22T18:37:22.822185Z",
+    "lead_time": 1.011
+  },
+  {
+    "image": "\/data\/upload\/2\/2b319e74-page_1483.png",
+    "id": 436,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 440,
+    "created_at": "2023-08-22T18:37:24.659076Z",
+    "updated_at": "2023-08-22T18:37:24.659076Z",
+    "lead_time": 0.827
+  },
+  {
+    "image": "\/data\/upload\/2\/99522037-page_1484.png",
+    "id": 437,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 441,
+    "created_at": "2023-08-22T18:37:26.729932Z",
+    "updated_at": "2023-08-22T18:37:26.729932Z",
+    "lead_time": 0.905
+  },
+  {
+    "image": "\/data\/upload\/2\/d928da8d-page_1485.png",
+    "id": 438,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 442,
+    "created_at": "2023-08-22T18:37:29.042983Z",
+    "updated_at": "2023-08-22T18:37:29.042983Z",
+    "lead_time": 0.68
+  },
+  {
+    "image": "\/data\/upload\/2\/ccba7459-page_1486.png",
+    "id": 439,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 443,
+    "created_at": "2023-08-22T18:37:31.406533Z",
+    "updated_at": "2023-08-22T18:37:31.406533Z",
+    "lead_time": 0.697
+  },
+  {
+    "image": "\/data\/upload\/2\/b9f30fd5-page_1487.png",
+    "id": 440,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 444,
+    "created_at": "2023-08-22T18:37:33.382237Z",
+    "updated_at": "2023-08-22T18:37:33.382237Z",
+    "lead_time": 0.952
+  },
+  {
+    "image": "\/data\/upload\/2\/06bc3fb6-page_1488.png",
+    "id": 441,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 445,
+    "created_at": "2023-08-22T18:37:35.518243Z",
+    "updated_at": "2023-08-22T18:37:35.518243Z",
+    "lead_time": 0.803
+  },
+  {
+    "image": "\/data\/upload\/2\/ee0752b5-page_1489.png",
+    "id": 442,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 446,
+    "created_at": "2023-08-22T18:37:37.704043Z",
+    "updated_at": "2023-08-22T18:37:37.704043Z",
+    "lead_time": 0.872
+  },
+  {
+    "image": "\/data\/upload\/2\/e64b19d6-page_1490.png",
+    "id": 443,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 447,
+    "created_at": "2023-08-22T18:37:39.851317Z",
+    "updated_at": "2023-08-22T18:37:39.851317Z",
+    "lead_time": 0.847
+  },
+  {
+    "image": "\/data\/upload\/2\/6db54a52-page_1491.png",
+    "id": 444,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 448,
+    "created_at": "2023-08-22T18:37:42.299171Z",
+    "updated_at": "2023-08-22T18:37:42.299171Z",
+    "lead_time": 0.996
+  },
+  {
+    "image": "\/data\/upload\/2\/4c4d737e-page_1492.png",
+    "id": 445,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 449,
+    "created_at": "2023-08-22T18:37:44.766387Z",
+    "updated_at": "2023-08-22T18:37:44.766387Z",
+    "lead_time": 0.707
+  },
+  {
+    "image": "\/data\/upload\/2\/4a2dc095-page_1493.png",
+    "id": 446,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 450,
+    "created_at": "2023-08-22T18:37:47.451076Z",
+    "updated_at": "2023-08-22T18:37:47.452063Z",
+    "lead_time": 0.931
+  },
+  {
+    "image": "\/data\/upload\/2\/aa335906-page_1494.png",
+    "id": 447,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 451,
+    "created_at": "2023-08-22T18:37:49.735224Z",
+    "updated_at": "2023-08-22T18:37:49.735224Z",
+    "lead_time": 1.106
+  },
+  {
+    "image": "\/data\/upload\/2\/75f8b3cc-page_1495.png",
+    "id": 448,
+    "choice": "single",
+    "annotator": 1,
+    "annotation_id": 452,
+    "created_at": "2023-08-22T18:37:51.465849Z",
+    "updated_at": "2023-08-22T18:37:51.465849Z",
+    "lead_time": 0.768
+  },
+  {
+    "image": "\/data\/upload\/2\/190204bf-page_1496.png",
+    "id": 449,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 453,
+    "created_at": "2023-08-22T18:37:56.519491Z",
+    "updated_at": "2023-08-22T18:38:02.676775Z",
+    "lead_time": 5.917
+  },
+  {
+    "image": "\/data\/upload\/2\/d63d26f5-page_1497.png",
+    "id": 450,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 454,
+    "created_at": "2023-08-22T18:38:05.647721Z",
+    "updated_at": "2023-08-22T18:38:05.647721Z",
+    "lead_time": 1.424
+  },
+  {
+    "image": "\/data\/upload\/2\/bf22af30-page_1498.png",
+    "id": 451,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 455,
+    "created_at": "2023-08-22T18:38:07.067261Z",
+    "updated_at": "2023-08-22T18:38:07.067261Z",
+    "lead_time": 0.735
+  },
+  {
+    "image": "\/data\/upload\/2\/0822f78d-page_1499.png",
+    "id": 452,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 456,
+    "created_at": "2023-08-22T18:38:09.799851Z",
+    "updated_at": "2023-08-22T18:38:09.799851Z",
+    "lead_time": 0.72
+  },
+  {
+    "image": "\/data\/upload\/2\/bd8ea061-page_1500.png",
+    "id": 453,
+    "choice": "double",
+    "annotator": 1,
+    "annotation_id": 457,
+    "created_at": "2023-08-22T18:38:13.306914Z",
+    "updated_at": "2023-08-22T18:38:13.306914Z",
+    "lead_time": 2.054
+  }
+]
